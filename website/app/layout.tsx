@@ -6,8 +6,8 @@ import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Gospel Sounders - Sermon Transcript Collection",
-  description: "Making Christian sermons searchable and accessible in text format for research and study",
+  title: "SDA Sermon Dataset - Research & Analysis Platform",
+  description: "Comprehensive dataset of 3,200+ Seventh-day Adventist sermon transcripts for theological research, AI training, and academic study",
 };
 
 export default function RootLayout({
@@ -22,8 +22,8 @@ export default function RootLayout({
           <div className="container mx-auto px-4">
             <div className="flex justify-between items-center py-4">
               <Link href="/" className="flex items-center gap-2 text-2xl font-bold text-gray-900">
-                <span className="text-3xl">📜</span>
-                <span>Gospel Sounders</span>
+                <span className="text-3xl">📊</span>
+                <span>SDA Sermon Dataset</span>
               </Link>
               <nav className="flex gap-6">
                 <Link href="/" className="text-gray-700 hover:text-blue-600 font-medium transition-colors">
@@ -49,8 +49,8 @@ export default function RootLayout({
           <div className="container mx-auto px-4">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
               <div>
-                <h4 className="text-xl font-bold mb-4">Gospel Sounders</h4>
-                <p className="text-gray-300">Making Christian sermons searchable and accessible for all.</p>
+                <h4 className="text-xl font-bold mb-4">SDA Sermon Dataset</h4>
+                <p className="text-gray-300">Comprehensive sermon dataset for theological research, AI training, and academic study.</p>
               </div>
               <div>
                 <h4 className="text-xl font-bold mb-4">Quick Links</h4>
@@ -70,7 +70,7 @@ export default function RootLayout({
               </div>
             </div>
             <div className="border-t border-gray-800 pt-8 text-center">
-              <p className="text-gray-300 mb-2">&copy; 2025 Gospel Sounders. Educational use only. All content belongs to original creators.</p>
+              <p className="text-gray-300 mb-2">&copy; 2025 SDA Sermon Dataset. Research and educational use only. All content belongs to original creators.</p>
               <p className="text-gray-400 italic">&ldquo;Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.&rdquo; - 2 Timothy 2:15</p>
             </div>
           </div>

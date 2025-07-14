@@ -9,12 +9,12 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl font-bold text-gray-900 mb-6">
-              Making Christian Sermons <br />
-              <span className="text-blue-600">Searchable & Accessible</span>
+              SDA Sermon Dataset <br />
+              <span className="text-blue-600">For Research & Analysis</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              Discover, search, and study sermon transcripts from multiple Christian ministries. 
-              All converted to text format for easy research and spiritual growth.
+              A comprehensive collection of 3,200+ sermon transcripts from Seventh-day Adventist churches. 
+              Enabling theological research, AI training, and academic study of contemporary Christian teaching.
             </p>
             <div className="flex gap-4 justify-center mb-12">
               <Link href="/search" className="bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors flex items-center gap-2">
@@ -47,9 +47,10 @@ export default function Home() {
       <section className="py-20 bg-white" id="mission">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Our Mission</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Dataset Applications</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Democratizing access to Christian teachings through searchable text
+              Enabling comprehensive research into Seventh-day Adventist theological patterns, 
+              teaching evolution, and contemporary Christian discourse
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -157,6 +158,101 @@ export default function Home() {
                 </div>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Research Applications Section */}
+      <section className="py-20 bg-blue-50">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Research Applications</h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              This sermon dataset enables comprehensive analysis of Seventh-day Adventist teaching patterns, 
+              doctrinal evolution, and ministerial practices across multiple congregations and time periods.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {[
+              {
+                icon: "📊",
+                title: "Doctrinal Analysis", 
+                desc: "Track theological emphasis changes over time. Which doctrines receive more attention? How has biblical interpretation evolved within SDA churches?"
+              },
+              {
+                icon: "🎤",
+                title: "Speaker Patterns",
+                desc: "Analyze preaching styles, topic preferences, and sermon structures across different pastors and guest speakers."
+              },
+              {
+                icon: "📈",
+                title: "Subject Trends",
+                desc: "Identify emerging topics, disappearing subjects, and seasonal patterns. What themes dominate during certain periods or events?"
+              },
+              {
+                icon: "⏱️",
+                title: "Temporal Analysis",
+                desc: "Study sermon lengths, worship service structures, and the ratio of music time to preaching time across different congregations."
+              },
+              {
+                icon: "🔍",
+                title: "Controversy Tracking",
+                desc: "Research how sensitive topics are addressed, how church positions evolve, and identify areas of theological tension or debate."
+              },
+              {
+                icon: "🌟",
+                title: "Innovation Detection",
+                desc: "Discover new teaching methods, fresh biblical insights, and contemporary applications of traditional SDA teachings."
+              },
+              {
+                icon: "📚",
+                title: "Comparative Studies",
+                desc: "Compare urban vs rural congregations, different cultural contexts, and generational differences in ministry approaches."
+              },
+              {
+                icon: "🤖",
+                title: "AI Training Data",
+                desc: "Use for training theological language models, automated topic classification, sentiment analysis, and biblical concept extraction."
+              },
+              {
+                icon: "📝",
+                title: "Academic Research",
+                desc: "Support dissertations, journal articles, and scholarly research in theology, linguistics, anthropology, and religious studies."
+              }
+            ].map((app, index) => (
+              <div key={index} className="bg-white rounded-lg p-6 shadow-sm hover:shadow-md transition-shadow">
+                <div className="text-4xl mb-4">{app.icon}</div>
+                <h3 className="text-xl font-bold text-gray-900 mb-3">{app.title}</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">{app.desc}</p>
+              </div>
+            ))}
+          </div>
+          <div className="mt-12 text-center">
+            <div className="bg-white rounded-lg p-8 shadow-sm max-w-4xl mx-auto">
+              <h3 className="text-2xl font-bold text-gray-900 mb-4">Dataset Specifications</h3>
+              <div className="grid grid-cols-1 md:grid-cols-4 gap-6 text-center">
+                <div>
+                  <div className="text-3xl font-bold text-blue-600">3,200+</div>
+                  <div className="text-gray-600 text-sm">Transcribed Sermons</div>
+                </div>
+                <div>
+                  <div className="text-3xl font-bold text-blue-600">4</div>
+                  <div className="text-gray-600 text-sm">Church Congregations</div>
+                </div>
+                <div>
+                  <div className="text-3xl font-bold text-blue-600">500+</div>
+                  <div className="text-gray-600 text-sm">Hours of Content</div>
+                </div>
+                <div>
+                  <div className="text-3xl font-bold text-blue-600">2M+</div>
+                  <div className="text-gray-600 text-sm">Words Analyzed</div>
+                </div>
+              </div>
+              <p className="text-gray-600 mt-6 text-sm">
+                <strong>Format:</strong> Plain text transcripts • <strong>Language:</strong> English & Swahili • 
+                <strong>License:</strong> Educational/Research Use • <strong>Updated:</strong> Continuously
+              </p>
+            </div>
           </div>
         </div>
       </section>
