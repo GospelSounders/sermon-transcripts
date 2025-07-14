@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
+import Header from "./components/Header";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,31 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <header className="bg-white shadow-sm sticky top-0 z-50">
-          <div className="container mx-auto px-4">
-            <div className="flex justify-between items-center py-4">
-              <Link href="/" className="flex items-center gap-2 text-2xl font-bold text-gray-900">
-                <span className="text-3xl">📊</span>
-                <span>Christian Sermon Dataset</span>
-              </Link>
-              <nav className="flex gap-6">
-                <Link href="/" className="text-gray-700 hover:text-blue-600 font-medium transition-colors">
-                  Home
-                </Link>
-                <Link href="/search" className="text-gray-700 hover:text-blue-600 font-medium transition-colors">
-                  Search
-                </Link>
-                <Link href="/ministries" className="text-gray-700 hover:text-blue-600 font-medium transition-colors">
-                  All Ministries
-                </Link>
-                <Link href="/about" className="text-gray-700 hover:text-blue-600 font-medium transition-colors">
-                  About
-                </Link>
-              </nav>
-            </div>
-          </div>
-        </header>
-
+        <Header />
         <main>{children}</main>
 
         <footer className="bg-gray-900 text-white py-16">

@@ -1,13 +1,14 @@
 'use client'
 
 import { useState } from 'react'
-import { Search, Filter, Clock, BookOpen } from 'lucide-react'
+import { Search, Filter, Clock, BookOpen, X } from 'lucide-react'
+import Link from 'next/link'
 
 export default function SearchPage() {
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedMinistry, setSelectedMinistry] = useState('all')
   const [selectedTopic, setSelectedTopic] = useState('all')
-  const [isLoading, setIsLoading] = useState(false)
+  const [showNotImplementedDialog, setShowNotImplementedDialog] = useState(false)
 
   const ministries = [
     { id: 'all', name: 'All Ministries' },
@@ -41,14 +42,7 @@ export default function SearchPage() {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault()
-    setIsLoading(true)
-    
-    // Simulate search delay
-    setTimeout(() => {
-      setIsLoading(false)
-      // Here you would implement actual search functionality
-      alert(`Searching for: "${searchQuery}" in ${selectedMinistry} ministry, topic: ${selectedTopic}`)
-    }, 1500)
+    setShowNotImplementedDialog(true)
   }
 
   return (
@@ -112,20 +106,10 @@ export default function SearchPage() {
               {/* Search Button */}
               <button
                 type="submit"
-                disabled={isLoading}
-                className="w-full bg-blue-600 text-white py-4 px-8 rounded-lg font-semibold hover:bg-blue-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+                className="w-full bg-blue-600 text-white py-4 px-8 rounded-lg font-semibold hover:bg-blue-700 transition-colors flex items-center justify-center gap-2"
               >
-                {isLoading ? (
-                  <>
-                    <div className="animate-spin w-5 h-5 border-2 border-white border-t-transparent rounded-full"></div>
-                    Searching...
-                  </>
-                ) : (
-                  <>
-                    <Search className="w-5 h-5" />
-                    Search Transcripts
-                  </>
-                )}
+                <Search className="w-5 h-5" />
+                Search Transcripts
               </button>
             </form>
           </div>
@@ -229,6 +213,80 @@ export default function SearchPage() {
           </div>
         </div>
       </section>
+
+      {/* Search Not Implemented Dialog */}
+      {showNotImplementedDialog && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 p-4">
+          <div className="bg-white rounded-lg p-8 max-w-lg w-full mx-auto">
+            <div className="flex justify-between items-start mb-6">
+              <h3 className="text-2xl font-bold text-gray-900">Search Coming Soon!</h3>
+              <button 
+                onClick={() => setShowNotImplementedDialog(false)}
+                className="text-gray-400 hover:text-gray-600"
+              >
+                <X className="w-6 h-6" />
+              </button>
+            </div>
+            
+            <div className="mb-6">
+              <p className="text-gray-600 mb-4">
+                We&apos;re still building the search functionality. In the meantime, you can browse 
+                transcripts by visiting individual ministry pages:
+              </p>
+              
+              <div className="space-y-3">
+                <Link 
+                  href="/young-evangelists" 
+                  className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                  onClick={() => setShowNotImplementedDialog(false)}
+                >
+                  <span className="font-medium">Young Evangelists Ministry</span>
+                  <span className="text-sm text-gray-500">82+ sermons</span>
+                </Link>
+                <Link 
+                  href="/pioneer-loudcry" 
+                  className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                  onClick={() => setShowNotImplementedDialog(false)}
+                >
+                  <span className="font-medium">Pioneer Loudcry</span>
+                  <span className="text-sm text-gray-500">197+ sermons</span>
+                </Link>
+                <Link 
+                  href="/newlife-sda" 
+                  className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                  onClick={() => setShowNotImplementedDialog(false)}
+                >
+                  <span className="font-medium">Newlife SDA Church Nairobi</span>
+                  <span className="text-sm text-gray-500">2,200+ sermons</span>
+                </Link>
+                <Link 
+                  href="/nairobi-central-sda" 
+                  className="flex items-center justify-between p-3 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors"
+                  onClick={() => setShowNotImplementedDialog(false)}
+                >
+                  <span className="font-medium">Nairobi Central SDA</span>
+                  <span className="text-sm text-gray-500">730+ sermons</span>
+                </Link>
+              </div>
+            </div>
+            
+            <div className="flex gap-3">
+              <button 
+                onClick={() => setShowNotImplementedDialog(false)}
+                className="flex-1 bg-blue-600 text-white py-3 px-6 rounded-lg font-medium hover:bg-blue-700 transition-colors"
+              >
+                Browse Ministries
+              </button>
+              <button 
+                onClick={() => setShowNotImplementedDialog(false)}
+                className="px-6 py-3 border border-gray-300 text-gray-700 rounded-lg font-medium hover:bg-gray-50 transition-colors"
+              >
+                Close
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }

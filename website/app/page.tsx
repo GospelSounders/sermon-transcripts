@@ -83,7 +83,7 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             {/* Featured Ministry */}
-            <div className="bg-white rounded-lg shadow-lg p-8 border-2 border-blue-200">
+            <div className="bg-white rounded-lg shadow-lg p-8 border-2 border-blue-200 flex flex-col h-full">
               <div className="flex justify-between items-start mb-4">
                 <h3 className="text-2xl font-bold text-gray-900">Newlife SDA Church Nairobi</h3>
                 <div className="flex gap-2">
@@ -91,7 +91,7 @@ export default function Home() {
                   <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Largest Collection</span>
                 </div>
               </div>
-              <p className="text-gray-600 mb-6">
+              <p className="text-gray-600 mb-6 flex-grow">
                 Major Seventh-day Adventist church in Nairobi with extensive sermon collection covering worship, 
                 doctrine, and community life. Representative sample of contemporary SDA teaching.
               </p>
@@ -100,7 +100,7 @@ export default function Home() {
                   <span key={tag} className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm">{tag}</span>
                 ))}
               </div>
-              <div className="flex gap-3">
+              <div className="flex gap-3 mt-auto">
                 <Link href="/newlife-sda" className="bg-blue-600 text-white px-6 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors">
                   Browse Collection
                 </Link>
@@ -137,18 +137,18 @@ export default function Home() {
                 url: "https://www.youtube.com/@youngevangelistsministry8232"
               }
             ].map((ministry, index) => (
-              <div key={index} className="bg-white rounded-lg shadow p-6">
+              <div key={index} className="bg-white rounded-lg shadow p-6 flex flex-col h-full">
                 <div className="flex justify-between items-start mb-4">
                   <h3 className="text-xl font-bold text-gray-900">{ministry.name}</h3>
                   <span className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm font-medium">{ministry.count}</span>
                 </div>
-                <p className="text-gray-600 mb-4">{ministry.desc}</p>
+                <p className="text-gray-600 mb-4 flex-grow">{ministry.desc}</p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   {ministry.tags.map(tag => (
                     <span key={tag} className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-sm">{tag}</span>
                   ))}
                 </div>
-                <div className="flex gap-3">
+                <div className="flex gap-3 mt-auto">
                   <Link href={`/${ministry.slug}`} className="bg-blue-600 text-white px-4 py-2 rounded font-medium hover:bg-blue-700 transition-colors text-sm">
                     Browse Collection
                   </Link>
@@ -312,6 +312,67 @@ export default function Home() {
                 </div>
               </div>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Team Section */}
+      <section className="py-20 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Project Team</h2>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+              Dedicated researchers and developers working to make Christian sermons accessible for academic study
+            </p>
+          </div>
+          <div className="max-w-4xl mx-auto">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+              <div className="bg-gray-50 rounded-lg p-6 text-center">
+                <div className="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <span className="text-2xl font-bold text-blue-600">BO</span>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">Brian Onang&apos;o</h3>
+                <p className="text-blue-600 font-medium mb-3">Lead Developer & Data Architect</p>
+                <p className="text-gray-600 text-sm">
+                  Responsible for dataset architecture, transcript processing pipelines, and research platform development.
+                </p>
+              </div>
+              
+              <div className="bg-gray-50 rounded-lg p-6 text-center">
+                <div className="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <span className="text-2xl">🤖</span>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">AI Research Assistant</h3>
+                <p className="text-green-600 font-medium mb-3">Data Processing & Analysis</p>
+                <p className="text-gray-600 text-sm">
+                  Automated transcript extraction, data cleaning, and initial research applications development.
+                </p>
+              </div>
+              
+              <div className="bg-gray-50 rounded-lg p-6 text-center">
+                <div className="w-20 h-20 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                  <span className="text-2xl">👥</span>
+                </div>
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">Research Community</h3>
+                <p className="text-purple-600 font-medium mb-3">Academic Contributors</p>
+                <p className="text-gray-600 text-sm">
+                  Theological scholars and researchers who contribute insights and help validate dataset quality.
+                </p>
+              </div>
+            </div>
+            
+            <div className="mt-12 text-center">
+              <div className="bg-blue-50 rounded-lg p-6">
+                <h3 className="text-lg font-semibold text-blue-900 mb-3">Join Our Research Community</h3>
+                <p className="text-blue-700 mb-4">
+                  We welcome collaboration from theological researchers, AI developers, and academic institutions 
+                  interested in Christian sermon analysis and computational theology.
+                </p>
+                <div className="text-sm text-blue-600">
+                  Contact us for research partnerships and dataset access
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
