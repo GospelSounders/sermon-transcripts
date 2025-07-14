@@ -16,13 +16,15 @@ This repository contains transcripts from multiple Christian YouTube channels, c
 ## 📊 Current Collection
 
 ### Available Channels
-- **[Young Evangelists Ministry](https://www.youtube.com/@youngevangelistsministry8232)** - 82+ video transcripts
+- **[Newlife SDA Church Nairobi](https://www.youtube.com/@newlifesdachurchnairobi)** - 2,200+ video transcripts ⭐
+- **[Nairobi Central SDA](https://www.youtube.com/@nairobicentralsda)** - 730+ video transcripts
 - **[Pioneer Loudcry](https://www.youtube.com/@PTLPMTV)** - 197+ video transcripts
+- **[Young Evangelists Ministry](https://www.youtube.com/@youngevangelistsministry8232)** - 82+ video transcripts
 
 ### Statistics
-- **Total Transcripts**: 279+ sermons and teachings
+- **Total Available**: 3,200+ sermons and teachings from 4 SDA churches
 - **Languages**: English, Swahili
-- **Topics**: Adventist theology, prophecy, health, education, biblical studies
+- **Topics**: Complete SDA theology, worship, prophecy, health, education, music ministry
 - **Format**: Full text with timestamps
 
 ## 🗂️ Repository Structure
@@ -36,15 +38,17 @@ This repository contains transcripts from multiple Christian YouTube channels, c
 │   ├── download_transcripts_batch.py # Single channel downloader
 │   └── ...                 # Other utility scripts
 ├── 📁 output/              # Transcript collections
-│   ├── 📁 young-evangelists/       # Young Evangelists Ministry transcripts
-│   └── 📁 pioneer-loudcry/         # Pioneer Loudcry transcripts
+│   ├── 📁 newlife-sda/             # Newlife SDA Church transcripts
+│   ├── 📁 nairobi-central-sda/     # Nairobi Central SDA transcripts  
+│   ├── 📁 pioneer-loudcry/         # Pioneer Loudcry transcripts
+│   └── 📁 young-evangelists/       # Young Evangelists Ministry transcripts
 └── 📁 .github/workflows/    # GitHub Pages automation
 ```
 
 ## 🔍 How to Use This Collection
 
 ### 1. Browse Transcripts
-- Navigate to `output/young-evangelists/` or `output/pioneer-loudcry/`
+- Navigate to any output folder: `newlife-sda/`, `nairobi-central-sda/`, `pioneer-loudcry/`, or `young-evangelists/`
 - Each `.txt` file contains a full sermon transcript
 - Filenames follow the pattern: `{SERMON_TITLE}_{VIDEO_ID}.txt`
 

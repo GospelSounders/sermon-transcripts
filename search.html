@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Sermons - Gospel Sounders</title>
+    <meta name="description" content="Search through 3,200+ sermon transcripts from 4 SDA churches">
+    <link rel="stylesheet" href="/styles/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">
+                    <span class="logo-icon">📜</span>
+                    <span>Gospel Sounders</span>
+                </h1>
+                <nav class="nav">
+                    <a href="/" class="nav-link">Home</a>
+                    <a href="/search.html" class="nav-link active">Search</a>
+                    <a href="/ministries.html" class="nav-link">All Ministries</a>
+                    <a href="/about.html" class="nav-link">About</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <!-- Search Hero -->
+        <section class="search-hero">
+            <div class="container">
+                <div class="search-content">
+                    <h1 class="search-title">Search Sermon Transcripts</h1>
+                    <p class="search-description">
+                        Find specific topics, Bible verses, or speakers across 3,200+ sermons from 4 SDA churches
+                    </p>
+                    
+                    <div class="search-box">
+                        <div class="search-input-container">
+                            <input type="text" 
+                                   id="search-input" 
+                                   class="search-input" 
+                                   placeholder="Search for topics, Bible verses, speakers..."
+                                   autocomplete="off">
+                            <button type="button" class="search-button" onclick="performSearch()">
+                                🔍 Search
+                            </button>
+                        </div>
+                        
+                        <div class="search-filters">
+                            <div class="filter-group">
+                                <label for="ministry-filter">Ministry:</label>
+                                <select id="ministry-filter" class="filter-select">
+                                    <option value="">All Ministries</option>
+                                    <option value="newlife-sda">Newlife SDA Church</option>
+                                    <option value="nairobi-central-sda">Nairobi Central SDA</option>
+                                    <option value="pioneer-loudcry">Pioneer Loudcry</option>
+                                    <option value="young-evangelists">Young Evangelists</option>
+                                </select>
+                            </div>
+                            
+                            <div class="filter-group">
+                                <label for="topic-filter">Topic:</label>
+                                <select id="topic-filter" class="filter-select">
+                                    <option value="">All Topics</option>
+                                    <option value="prophecy">Prophecy</option>
+                                    <option value="health">Health Message</option>
+                                    <option value="education">True Education</option>
+                                    <option value="worship">Worship</option>
+                                    <option value="sabbath">Sabbath School</option>
+                                    <option value="youth">Youth Ministry</option>
+                                    <option value="music">Music Ministry</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search Results -->
+        <section class="search-results" id="search-results" style="display: none;">
+            <div class="container">
+                <div class="results-header">
+                    <h2 id="results-title">Search Results</h2>
+                    <p id="results-count" class="results-count"></p>
+                </div>
+                
+                <div id="results-container" class="results-container">
+                    <!-- Results will be populated here -->
+                </div>
+                
+                <div class="load-more-container" style="display: none;">
+                    <button class="btn btn-secondary" onclick="loadMoreResults()">
+                        Load More Results
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search Tips -->
+        <section class="search-tips">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Search Tips</h2>
+                    <p class="section-description">
+                        Get the most out of your sermon research
+                    </p>
+                </div>
+                
+                <div class="tips-grid">
+                    <div class="tip-card">
+                        <div class="tip-icon">📖</div>
+                        <h3>Bible Verses</h3>
+                        <p>Search for specific verses like "John 3:16" or "Revelation 14" to find sermons that reference those passages.</p>
+                        <div class="tip-example">
+                            <strong>Try:</strong> "Daniel 2", "Matthew 24", "Psalms 23"
+                        </div>
+                    </div>
+
+                    <div class="tip-card">
+                        <div class="tip-icon">🎯</div>
+                        <h3>Topics</h3>
+                        <p>Use broad topic searches to explore themes across multiple sermons and ministries.</p>
+                        <div class="tip-example">
+                            <strong>Try:</strong> "second coming", "health message", "sanctuary"
+                        </div>
+                    </div>
+
+                    <div class="tip-card">
+                        <div class="tip-icon">👤</div>
+                        <h3>Speakers</h3>
+                        <p>Find sermons by specific pastors or evangelists by searching their names.</p>
+                        <div class="tip-example">
+                            <strong>Try:</strong> "Pastor", "Elder", "Evangelist"
+                        </div>
+                    </div>
+
+                    <div class="tip-card">
+                        <div class="tip-icon">🏷️</div>
+                        <h3>Filters</h3>
+                        <p>Use the ministry and topic filters to narrow down your search to specific churches or themes.</p>
+                        <div class="tip-example">
+                            <strong>Tip:</strong> Combine filters for precise results
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Popular Searches -->
+        <section class="popular-searches">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Popular Searches</h2>
+                    <p class="section-description">
+                        Trending topics in our sermon collection
+                    </p>
+                </div>
+                
+                <div class="popular-tags">
+                    <button class="popular-tag" onclick="searchTopic('prophecy')">Prophecy</button>
+                    <button class="popular-tag" onclick="searchTopic('second coming')">Second Coming</button>
+                    <button class="popular-tag" onclick="searchTopic('Sabbath')">Sabbath</button>
+                    <button class="popular-tag" onclick="searchTopic('health message')">Health Message</button>
+                    <button class="popular-tag" onclick="searchTopic('three angels')">Three Angels</button>
+                    <button class="popular-tag" onclick="searchTopic('sanctuary')">Sanctuary</button>
+                    <button class="popular-tag" onclick="searchTopic('Daniel')">Book of Daniel</button>
+                    <button class="popular-tag" onclick="searchTopic('Revelation')">Revelation</button>
+                    <button class="popular-tag" onclick="searchTopic('education')">True Education</button>
+                    <button class="popular-tag" onclick="searchTopic('baptism')">Baptism</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Current Status -->
+        <section class="search-status">
+            <div class="container">
+                <div class="status-card">
+                    <h3>🚧 Search Development Status</h3>
+                    <p>
+                        <strong>Current:</strong> Manual search using GitHub's search feature<br>
+                        <strong>In Development:</strong> Full-text search across all transcripts<br>
+                        <strong>Coming Soon:</strong> Advanced filtering, highlighting, and related suggestions
+                    </p>
+                    <div class="status-actions">
+                        <a href="https://github.com/Surgbc/sermon-transcripts/search?q=" target="_blank" class="btn btn-secondary">
+                            🔍 Use GitHub Search
+                        </a>
+                        <a href="/" class="btn btn-outline">
+                            Browse Ministries
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Gospel Sounders</h4>
+                    <p>Making Christian sermons searchable and accessible for all.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="/search.html">Search Sermons</a></li>
+                        <li><a href="/ministries.html">All Ministries</a></li>
+                        <li><a href="/about.html">About</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Search Help</h4>
+                    <ul>
+                        <li><a href="#search-tips">Search Tips</a></li>
+                        <li><a href="#popular-searches">Popular Topics</a></li>
+                        <li><a href="https://github.com/Surgbc/sermon-transcripts" target="_blank">GitHub Repository</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Gospel Sounders. Educational use only. All content belongs to original creators.</p>
+                <p><em>"Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me." - John 5:39</em></p>
+            </div>
+        </div>
+    </footer>
+
+    <script type="module" src="/js/search.js"></script>
+</body>
+</html>
