@@ -1,0 +1,1325 @@
+Title: AI & I How To Stay in The Room - Isaac Nyangolo | Young Professionals Convention 2025
+Video ID: vHbbdXS6j3g
+URL: https://www.youtube.com/watch?v=vHbbdXS6j3g
+--------------------------------------------------
+
+FULL TRANSCRIPT:
+Uh thank you so much. I'm delighted to join you today to talk about AI. And uh yeah, the the title that we're going to talk about today is AI and I how to stay in the room. And I remember when we first had that conversation with N about this, I was like, I don't think I'm the best person to talk about AI. But as I've grappled through this topic over the last couple of days and weeks, I've realized that it's something that means much to me. And I hope by the end of this conversation, it's also going to mean um much to you. So in very good AI fashion, the next slide was actually AI generated and then we can now go into our presentation with an AI joke. Guys, you need to laugh. It's the only funny part of this presentation today. So, if you haven't laughed, you've lost your your chance to laugh today. All right. So, I want us to just like uh think what situate this whole conversation in Kenya. Uh the next slide. We have about uh 3 something million formal jobs in Kenya out of something like 15 16 million jobs. Only 16% of jobs in Kenya are formal. So that means if you have a formal job in Kenya, you've won the lottery. You're one of 16% of people who have a formal job. I mean even if it doesn't feel like it, you've won a lottery. But I think today we're not just interested in uh the formal jobs. I mean uh the ne the next slide talks about the kind of formal jobs that we have uh in the country and uh as anticipated the single biggest category of formal jobs will be let's say the public sector jobs. So if you think about all the government employees civil servants they comprise the biggest uh category of formally employed people in Kenya and uh the next biggest category is teachers. So teaching again um most of the teachers in the country are employed by uh the government and when I uh sort of like speak with uh young professionals at New Life, I meet few who are teachers and I know few are enthusiastic about teaching. Maybe you guys are different. Okay, maybe subtle. I think like many of us aspire uh to get like um higher wage jobs. So I wanted to narrow down to the kind of jobs that uh let's say would pay a 100,000 and above and this now becomes quite different. Oh, no. No, not yet. Different. Only about 12 thou 12% of jobs in Kenya will have um will pay over 100,000 a month. I know 100,000 doesn't look like a lot and many of us would probably believe or think or want to wish that uh the number of uh jobs that are earning more than 100,000 in Kenya, it's kind of high. I mean, if I were to step back, think of it, 16% of people formally employed. Of those 16%, 12% of those formerly employed now the ones who are earning over 100,000. And maybe these are the jobs that we aspire uh to get. Now, this number is like global. So, looking at uh the average pay, whether someone's just joined the sector, whether someone has been working in the sector for 20 or 30 years, these are the numbers. And uh the bulk as you can see from here 22% of them I believe will be in education. So uh yeah for those of us who didn't want to be teachers 22% that's a by far the largest category of people who earn more than 100,000 teachers. Anyway I think when you go to the next slide there's a little bit of a catch. For you to earn over 100,000 as a teacher, as a government employee, which dominate the previous uh slide, you'll need to have been working for a very long period of time. Now, today we are young professionals. So, I thought why don't we think of the kind of high wage jobs that 30 to 40 year olds will be getting. So, I think like if you're below 30 or slightly above 40, I think this will be something that uh you'll think about. And uh these jobs are dominated by finance, insurance, IT and so on. Uh trade, wholesale trade and wholesale trade, retail. So think about like sales managers and things like that. And uh if you go to the next slide. So let me see. That's about Oh yes. But but let's dwell a bit on the pre actually this is the slide that I that I'm looking for. So yeah about 12 something like between 10 to 14% in each of those various categories and if you put it all together about 36% of the people who have high wage jobs in our age group or the age group that's sitted in this room will be having jobs let's like uh in finance ICT uh sort of like consulting uh with uh roles sort of like listed in detail on the slide. So things like uh financial analysts, account managers, sales managers, project managers, uh engineers and so on. Go to the next slide please. Uh so let's say healthcare workers, uh project managers, operations managers, sales managers and I think like uh I mean I hope like uh Chhattip did really good research on this. So, as I'm going through these slides, I hope you're saying, "Okay, I think that's talking about me." Is it? Oh, it's talking. Oh, perfect. Then you're on the on the right direction. So, what I wanted to do next was to just help us visualize what does AI do to the kind of jobs that the people in this room either hold or aspire to hold. and uh AI projects that um if we took this room of I think roughly 70 people so let's extrapolate and say we're 100 people in this room uh what projects is that in 5 to 7 years the number of people in this room would have reduced to 70 so like 30% of us will not have their jobs as a result of AI okay that's dramatic So pause for effect 30%. All right. The the graphs are not very clear but I if I want Oh yeah I think this is uh clear. So all across the board uh let's like really large change in uh finance and insurance slight change in ICT uh a lot of change in manufacturing and construction transportation huge change. So we expect uh so about like 30 people in this room of 100 will not have their jobs in about 5 to 7 years. The next slide goes into a little bit more detail. Uh just like giving like a broad categorization. So as I pointed out uh when it comes to finance, research, routine, IT, retail, transportation, those jobs are going to be quite affected uh by AI. So huge effect on that. Uh when it comes to jobs like uh healthcare uh senior leadership I mean AI can't make decisions for you. AI can't uh chat with your colleagues. So high level strategic leadership that will still remain. I mean cos are not going to lose their jobs. Uh but okay don't laugh. Yeah. So CEOs may not lose their jobs or senior I mean very very senior managers although the caveat will be if they stay AI I mean if they're AI compliant like if they use extensively AI to keep their jobs well so if you're looking at so like this I think gives you like a picture based on like the industry that you're in how AI may affect may affect you in the next slides I'm not going to go through all the various industries that I pointed out. I'm just going to use a few industries for illustrative purposes. So not all of you uh I mean will have this but I hope I'm already uh I've already spoken enough about chat GPT to uh give you a sense that you can actually go to chat GPT and figure out I mean whether it's chat GPT or cloud AI or um Gemini or whatever other AI tool that you familiar or conversant with to give like I mean to get like more context on what this might look like for you. Now in uh finance I said it I mean we we just said in like the previous deck that it's one of the areas that's going to be quite affected. So if you 10 people in finance in this room we expect to lose I mean if you're 20 people in this room we expect to lose like seven of you in 5 to seven years and uh that's because AI automates a lot of things that we are rather that our jobs entail. So if I step back about 15 years ago there was a lot of automation uh in the let's say the banking industry for instance and uh that means if you go to any typical bank or like the banking halls that have frequented you always typically find a lot more counters than there are people serving in those counters because once upon a time you needed so many people to be serving customers in those and that meant like uh most of the people who used to do let's say like uh the leg work And that was who had then replaced by automation like mobile money or ebanking systems and so on. Now those people went back to the offices to do analysis or to do risk or to do uh kind of like yeah it's datadriven analysis and AI is making this extremely easy to do. Maybe not extremely easy to do, but making it so much easier to do that employers, including uh me, I'll talk about my story a little later, are already thinking of ways to save cost, improve efficiency by having fewer people like the ones that are listed like on the slide. I'll go to the next uh the next page. Uh about 20% reduction in professional, scientific, and technical services. So think about like your whole consultants. I I'll use this as a as an illustration. So I had a really busy week, but I to be honest, I also wanted to use this for dramatic effect in this uh presentation today. I started working on this presentation yesterday at 6:50 p.m. while on a mat on my way to town. And I was just like, where do I start? I just like put all of that onto chat GPT. All this data crunching before AI, it wasn't possible for someone to do the night before. Oh, we also had a chboard today morning and I was uh I mean you heard I was the church cler. So I was putting together all of that. So this is not the kind of work that you start doing at 6:50 p.m. the day before your church board and the day before you in front of all these cameras. But AI makes it possible. Previously you'd need like a research assistant to be able to do that or you yourself need to become like a research assistant to be able to do that. So that kind of jobs I mean it's just like a 10% reduction in the need to do that or 10 20% or so on but then it results in that net 20% reduction in the number of people who need to be sitting in this room. Go to the next uh slide. And then like when it comes to let's say retail wholesale again there's a lot of automation that's now possible from uh AI mediated I let's like uh sales automation um yeah I'm think sales automation whether that so there's a first generation of sales automation that comes just like by having it systems in place but there's a second generation of sales automations where you're able to let's say set up your uh outbound channels that's on Facebook and so on without needing to hire the experts to be able to work on that. I'm not going to dwell so much on this page as you can see it's not really my forte. I'll come I'll come back to an example a little later on uh talking about like wholesale trade and then I'll give the last example that we're going to talk about is uh on the next slide which is uh manufacturing and uh construction again uh the kind of project management work that was previously necessary uh that was really kind of like intensor detail the kind of uh opportunities that will provide high wage jobs for the people in this room those opportunities are going to Step back. Now I want to take a pause before going to the next three or four slides where we'll be focusing on how do you stay in the room to put a little bit more color more context to the uh last four five slides that I've mentioned. I said when uh Nam reached out to me asked if I could talk about uh AI my gut instinct was no I like I like talking about entrepreneurship. that's what I live on a day-by-day basis, but AI is not something that I live on a day-by-day basis. And so maybe I should talk about something else. But then I said, okay, I've already mentioned that as I'm thinking through this presentation, I realized there's a lot of ways in which AI already uh affects influences shapes what I do in ways that uh that directly bear on the conclusions that I was drawing that I need to share with you. Uh I'll give two two examples actually give three examples. So the first example over the last uh 8 weeks we've been working on a new uh embedded finance product. Okay. So what's an embedded finance product? An embedded finance product is um uh let's see when you let's say want to go to uh let me say you want to buy uh a fridge at um Nakumat and you don't have the money not Nakumat uh NAS or quick don't have the money and at the point of uh purchasing the product you told oh you can fizza is it yeah I think fela is the one uh that does it on that's an embedded finance product because you are at a supermarket just minding your own business in terms of just like uh trying to buy your fridge but then the bank somehow walks into your life and gives you like credit that loan you don't need to walk to the banking hall to get that credit product so embedded finance or let's say you want to I think there's mosmos which is like oh I want to save this money over a long period of time before I I purchased like uh the fridge if it's offered as a standalone uh solution then that's like a fintech product. But if it's offered let's say you're coming to Zeraki and you say I want now save for my school fee I want to save for my what if I want to take a loan for paying school fee then that becomes embedded finance. Now we are not embedded finance products but we are education experts and over the last 8 weeks we've been working uh with uh a couple of the financial services uh companies in Kenya to develop like embedded finance solutions that are going to be embedded onto the Zeraki platform. Three weeks ago, no two weeks ago, as we were tending towards coming up with very fine-tuned versions of this product, it occurred to me that for the first time, I was almost at the near or at the tail end of the product design process without having extensive conversations with the many friends that I have who are working in fintech or who are experts in that space. Because previously I'll come up with an idea, sit down with them for coffee, then a coffee at 2 weeks later, maybe a month later to consult with them on how to make this product work well to pace our implementation and just to be sure that we're doing the right thing. But right now, what did we do? We went to chat gave us like a whole play on if you want to roll out a new product, this is what you need to do. Uh these are the questions you need to be thinking of if you're partnering with let's say like a bank. These are the questions that you need to be worrying about whether from a legal perspective, from a compliance perspective, from a sales perspective, from a marketing perspective, from a distribution perspective. You see all these things that we are not experts in. We're walking into the room and our partners think that we really know what we are talking about. We actually do cuz we had to write those prompts on on chaptt. But the point is previously we would have needed to hire or either hire a full-time fintech expert to come and work with us or at the very least get a fintech consultant and these are the kind of like high wage jobs that we are all looking for. We would have needed to get that for us to get to this space. The second example I wanted to give is uh marketing. We now run a company of about 120 people. uh marketing has been one of those things that we do as a by the way until this year we realized we actually need to devote like a I mean have a dedicated budget for this hire two or three people to get into the team and you it may be curious for you to know that uh the person who's leading our marketing team right now who was coming up with the whole strategy has I think uh like one and a half years of work experience and she's doing a okay job. I mean a a good job. And um that's something that would have been unthinkable let's say 5 years ago cuz you want someone who has a lot of experience who's able to come up with the right strategic approach to guide uh the way a company of 120 people is going to implement their marketing resources. So number one would have been tell us what you've done before. Give us evidence of the kind of strategic work that you've done before. again the kind of high wage job that a 30 to 40 year old young professional would want to do for us because of AI we can risk doing it with um uh I mean someone who's just like one or two years out of out of campus and learn with them I know I said I was going to give three examples but I hope like those two gives you a sense that uh when we walking through these when I'm walking through these slides it's not just like something that now theoretical or something that is futuristic It's something that's happening here and now and other employers are already thinking about the same things putting pressure on the kinds of opportunities that we are thinking of would like to get for ourselves. So what do we do? The next deck gives again um I mean the next slide gives some examples of some of the things that we can do to stay in the room. Again I just focus on these uh four careers that uh we pointed out. Uh so financial services uh retail and I mean retail and wholesale manufacturing and uh professional services and uh let's see so in the financial and insurance activities room as AI automates risk analysis customer service and so on. Please learn AIdriven financial tools and specialize in compliance. I want to pause here and uh I mean I I didn't plan to tell this story but I think like uh it it's probably important to drive the point home. So there's this joke uh that some of us may have seen uh where two friends okay two bad friends are walking in a forest and a bear happens to I mean I mean a bear appears and one friend is like oh no we are dead another friend like no we are not dead and uh the friend is like wait are you going to outrun the bear the friend like no I just need to outrun you okay I I pro those are going to be like another joke okay that was the second joke so the point yeah they're going to be 70 people who are going to be in this room let's say that uh in these four slides we're trying to say that we're just trying to ensure that we are not part of the 30 who are going to be out of the room we're going to be part of the 70 who stay in the room. And if that's you within the financial and insurance activities room, you want to be the person who's making the AI related strategies for your institution or organization so that as the other people are getting displaced by AI, you your role becomes even more important or more critical within uh the organization. And for you to get to that space is what you're saying you need to start learning how to or rather use AIdriven financial tools specializing in com specializ in compliance. But the point is the stuff can be auto that can be automated will keep getting automated. The stuff that cannot be automated the strategic nuanced kind of roles are the ones that are going to persist. The next slide please. uh if you're in the professional and scientific technical fields again so as AI AI enhanced research growth you need to master AI assisted analysis and uh strategy so I'll give an example uh two years ago when we joined the young professionals team at New Life we used to take like all these surveys and uh surveys are very easy when you're collecting them but when you're analyzing them it's a pain cuz you have let's Say 120 people who responded to seven different questions and you want to know uh what like that whole permutation 120 * 7 that's not even like the total number of permutation of answers that you're getting from that you want to simplify it in three or four points that will resonate with most of those people before chat keep that would be like a four 5day activity if you so like dedicated to it right now you just like feed it into chat GPT or cloud. No, I I was actually like uh chat GPT is not good at it but Gemini is good at it. So you just like plug it into Gemini, everybody thinks like you fantastic but the truth is you get a near perfect answer within minutes and you move on to the next uh analysis and so on. So make sure to learn to master AI assisted analysis and strategy tools. Uh the next uh again uh so when it comes to uh wholesale and retail so AIdriven inven AIdriven inventory sales chat boards as they proliferate so uh focus on again first learning the tools and becoming adept at using those tools but then there are also areas that may not be replaced uh with AI uh as soon let's say human interaction human engagement let's say if the engagement is happening on digital spaces. That's now easier for AI to do. I mean, uh, 5 years ago, you used to go through the automatic voice responses when, uh, we answer calls. And most of us, if you're like me, I would wait until it says speak to the operator. So, I'll just go and speak to the operator. But right now, most AI chatbots that you're going to find on websites, they'll answer your questions to your level of satisfaction. So you no longer need to speak to that. But when it comes to B2B sales, they still want to see you, touch, feel, I don't know, put a name to the face and so on. So those ones, it might be a while before they replaced uh with AI. So maybe those are some like some of those things where you may stay in the same room but by moving slightly to the left to the right and taking on an adjacent opportunity. Uh then the last one in manufacturing and construction again the key point here is master the tools and yeah so master tools whether it's like in operations and uh in logistics. So this is quite a a handful and uh you may then be wondering how do I get started uh today now? Oh gosh, so many stories that I hadn't intended to tell, but maybe stories I think like they help ground things. It's one thing to learn how to swim by reading a book, by watching other people swim, watching the Olympics and so on. It's yet a whole different experience to actually swim. Now, for me, one of my passions again, photography. I've I I I remember like taking like a photography course about 10 years ago. But the most critical tool about learning how to become a better photographer is take many photographs. So take a thousand photos and then agonize over okay of these five photos which are the two that I should keep cuz I don't have unlimited space on my hard disk. And with each of the interactions or engagements that you're having, trying to figure out out of these five photos, I want to remain with only two. Why should I delete this? Why should I keep this? You incrementally learning how to become better at identifying a good photo. With every next photo that you're taking, you're becoming incrementally that better at identifying if I'm inside this uh inside this sanctuary, what lighting do I need to have, what lens do I need to have, what exposure, you know, all those little tiny things that you learn over time. so much that the more experienced photographer will most generally be the person who has been more deliberately taking photographs over a long period of time. In a similar way, you can't become a master in using chat GPT. No, you can't become a master in using AI tools if you actually do not use AI tools on a regular basis. Anyone can type something into chat GPT. only a few people are able to get something meaningful out of chat GPT and you only learn how to become better at getting something out of chat GPT cloud uh perplexity you name it whichever the tool is you only become better at doing it if you immerse yourself in it for me that journey started last year I think I've been uh on the paid version of uh chat GPT for the last uh 12 to 14 months or something like kind of expensive, $20, but if I think of any one of the single assignments that I do with CHP, it pays for it. I mean, for the investment so many times better. It's a not not just like a conversation partner, but it's like a really great engagement partner. One of the things that most managers would, let's say most managers or people doing like strategy jobs will tell you the most difficult thing is to find someone uh that you can bounce ideas off of chip you can bounce any idea off of. Wait, is this like a good JD to have? Okay, what should I need to be thinking about to make it better? Uh what if you look at this? What's missing in this other? I mean like there's so many of those permutations but just like swimming just like photography just like most other things where the 10,000 rule applies even with AI that applies. So what do you do? Uh take us to the next slide. Hope is not a strategy but starting today is. So I hope that uh I have managed to persuade you to not bank on hope. uh got the last slide but to be the person who's not going to be replaced uh with AI. So we said at the beginning with funny boss but it turns out that AI will actually replace uh I mean this is technically not true based on what we said cuz we said uh in that room of 100 will have 70 people remaining. So yes uh people actually be replaced by AI but more accurately if you are the person with AI I mean most likely the person who's going to replace you is going to be the person who has mastered the use of AI and I hope that all of you guys here will be the ones who are going to stay in the room as AI disrupts. Maybe I'll start with myself. I felt triggered when you were talking about AI because I'm in an industry where um 10 years ago when I was doing research in the finance industry it would take me a week to get data but then now it takes me less than an hour. In fact um it would take let's say 3 days to do a slide. Now it takes me 1 hour. So I was just as you were saying I was like I'm feeling it. So I I need to find a strategy outside hope to be able to implement it. Now you didn't mention anything to do with the health industry. So is there any hope that the AI I mean health industry will be spared? So I think like uh health health and other regulated industries might uh persist for a while. So let's say education for instance I mean uh even if you have the best technology putting that technology in the classroom revol I mean involves layers and layers of bureaucracy from one agency let's say one government agency to another and rightly so because uh education is kind of like critical you want a very measured and risk averse approach towards doing that and now health is pretty much to the extreme um end of that spectrum you don't want to You don't want AI to be doing that medical review and AI right now hallucinates. I mean comes up with things that are not even um that not even exist. So you don't want that hallucination to happen in your own case. So it will be a while before it gets fully disrupted. But that said, there's a lot of uh support services within the healthcare ecosystem that will probably be uh automated a lot more. So whether that comes from I know like um medical records for instance, I think like it's much easier uh to now uh put them on electronic medical records and then that information can be mined to get more information. So maybe that consultant who would previously only be able to see five patients because they want to do the deep research that brings together all that perspective with their eye they'll probably be able to see like six or seven and that diminishes the opportunity for the person who's coming into the field. So eventually it affects all of us. The trick is uh we want to be the people who end up staying in the room as other people are disrupted out of the room. Thank you for that. Um, anyone with a question? Praise God. Amen. My name is Eric Oboa. I have a question. The question is uh how are we going to prevent AI from affecting our social life and as well as how it is going to protect ourselves from it affecting mostly our eyes because mostly working on technology for long hours leads to migraines and something of sort eyesight loss such things and again What uh online platform would you recommend for someone to learn AI tools on right now? Maybe there's a platform where we can go and learn all the AI tools and lastly I am told you are to share your background story on how you came to be who you are. Kindly share with us. Um I think um Joseph if you don't mind uh before we go to Cliff uh let him answer. I think those were two or three questions in one. So I think it was like four questions for Eric. So I think like in terms of like the tools that you can get started with uh there was the last uh slide this the third last slide that was giving just like uh an example of some of the areas that you can focus on depending on the areas that you're interested in. So it could be you're interested in photography or you're interested in um I mean so Adobe for instance or you interested in photography or videography you go for a different tool if you're interested in writing if you're in research even when it comes to coding I think um for those of us who are in the software industry I was just reading listening to a blog whether to a podcast yesterday where the Y combinator which is where you have the best startups globally typically go to the Y combinator. I think they in the in that post they were saying that um 75% of the founders in their current cohort say that 95% of the code for their products was written with AI like 95% of the code for their product was AI generated. So that's why I'm saying uh even though AI is something like uh techreated AI will still affect the number of uh tech jobs. So depending on what your industry is, your focus will be uh different. There was the question about Oh boy, I thought I had it but then I skipped a bit. Something about social. Oh yes, how AI disrupts. So the thing is uh as with every good thing, some good things come without natural barriers. So I'll pick this up from a health talk that was given in the tmi no hope for Africa series a year or two ago where they're saying our bodies for instance are naturally weak to sugar and uh that's reasonable because a lot of the foods that are naturally found don't have too much sugar. you have to put in a lot of effort to be able to consume the sugar whether that's even like sugar cane however much you like it at some point your teeth just I mean your jaws get uh tired but you have like sweets then you can take too much too much sugar and so on and there is something that uh not just AI but social media has managed to tap into our own psyches think of it some of the world's smartest people just trying to figure out where our emotional vulnerabilities are and how software can fit into or plug into those vulnerabilities making social media and a lot of media quite uh addictive. Now there's already been some form of push back. So for instance in the Silicon Valley a lot of the same people who built this software they don't want their kids to touch tech at home because they understand how horrible tech can be when people are young. So even as we're thinking about how to use these tools, we need to think of how to protect ourselves from the worst excesses. Now AI can also make uh some of the excesses you're talking about more bearable. So for instance um previously when it comes to doing your research you needed to type it out but right now for most of the chat order from the chat AI tools you can speak you can even take like images and so on. So it might actually make it easier to interact or engage with that. Uh there's a question about my story. Maybe I can take it at the end because it might be okay a little long or so. Let me handle the other questions and then we'll talk about like the story. Hello. Thank you Isaac. That was really beautiful. Um and it's it's impressive to see how much you actually use these tools. Um I just find it very interesting that you do that. Um my question is around a risk factor because we have some really really persuasive tools out there and everything they produce looks okay actually looks correct. Um my fear is that no one is doing their due diligence to actually confirm anything that comes out of an AI chatbot window. And I don't know how you cope with that as you use it more and more in the work setup so that you're not you're not spreading disinformation that came out of um uh because the tools are powerful, the tools are great at what they do, but the tools can also make mistakes. And so I'd just like to hear you out as you encourage everyone to go and use AI tools. How exactly do you mitigate for that very thing? That's a really fantastic question to ask and a very nuanced one that uh goes back to what I was mentioning that your experience and exposure in using these tools is what makes it really powerful. So I mean the just think about like this presentation that I that I made uh the reason why I didn't mention it but the reason why I was able to do it again in the 40 50 or no in the 3 4h hour time segment is that this is actually an area that I have an interest in. So I know the kind of questions to ask. I know the kind of appropriate push back to make to the AI. So at some point of just like no chachi you're taking me for a ride you need to give me something else and they're like okay yeah I'll go do it again. No, but there's, you know, that's sort of like push back of conversation or engagement that you'll be able to have or rather you can only have it if you yourself have a measure of expertise, knowledge, knowhow both on the facts but also on let's say the argument or even the strategic direction that this needs to take. So it's not to say that anyone using chhatt will be able to come up with something here. Actually I just found the the right joke. You know it's just like not anyone who can play the piano can produce a masterpiece or not anyone who can write in English can write a novel. So it's the same way like uh what what chat what these chat bots have done is to remove what uh the technical barrier for most people but it just makes it uh easier for people who are really good on the strategic elements to come out of their shell and to shine to to shine through. So what I hope is versat learning how to be conversant with comfortable with and versatile with the tools enables you to stop thinking about the tools. So we're no longer looking for someone who is good in R or someone who is good in computing with Excel. We're looking for someone who's able to come up with a better business decision as a result of previously it was Excel but right now with CHP occupying that space or the other uh uh tools that we're talking about makes you much better at making decisions and that's something that takes a while and deliberate engagement. I hope that has been um you're satisfied with the answer. will take I think one two last questions here and then he will answer the final question on his story. Joseph, I think there are two hands here. Oh, there was a hand there. Okay, let me just Hi, Isaac. Hi. Thank you for the presentation. My name is Orlando. I have two questions. Um, I think there's a couple of negativity around AI. Some people would say it lowers the thinking capacity of human beings. So as someone who's in the edtech space and passionate about uh education, does that worry you especially know that it's replacing uh time taken for research and uh and all that? And then my second question was generally is there are there caution that maybe you can share with us as we move towards embracing AI or it's generally 100% good for for consumption? No, nothing is good. Especially a as powerful as AI cannot be good. So I think there needs to be several guard rails. Uh let let me just like focus let's say on education for instance where uh what you're hinting at that AI is not is not allowing students to let's say think for themselves or people to learn how to think for themselves. Let me put it this way. When we were learning how to do 1 + 1 or even the multiplication tables, you already had the log books. Okay, depends on how old you are. Uh you'd know what the logarithmic tables are. And then at some point uh you learn how to use a calculator and so on. And if you're thinking about the progression of the curriculum, there are things that were introduced to us when we were in grade 1 or class one that by the time you're in grade five, you're wondering why did they need to go through this trouble. And by the time you're getting to, let's say, form four, you realize, oh, if they didn't teach me this in class one, then I couldn't have learned I couldn't have grasped the full concept in class 5. and then the thing that we were taught in let's say form three will not have made sense. Now when it comes to math and the sciences and all those other fields, there's already been a lot of work that has happened to figure out what step by step uh what steps do you need to take in order to learn the big one. In other words, you probably first have to learn the vowels before learning the words, before learning the sentences and the paragraphs and so on. Now, what you're mentioning is true in that AI potentially disrupts that process because without AI to train someone how to think, you could actually ask them to write an essay. But because the essay will not just like materialize, someone would actually have to think in order to write that essay. I submit like thinking is still really critical and whoever can think I just like to go back to the question that we answered previously. The person who's able to think who has the right context whether the context is in terms of like uh what the facts are what the right argument is what the general strategic direction that's the person who's going to be really good at figuring out how to make the best use of AI. Now these skills might be learned with support of AI but these skills I believe will also necessarily need to be learned without the use of AI. So that those skills are quite drumed in. So that will be for instance the equivalent of saying when did Namibia get its independence? The teacher knows that if you have your phone in the exam room you can Google it. And so they say like, "No, we're not going to allow you to have the phone in the uh in the exam room because we actually want you to cram that fact." And the person who has crammed a lot more of those facts will generally be better when it comes to Google because they know uh how to how one fact adds up with the other and so on to to come together. Yeah. As I go to the next question, I have the advantage of holding the mic. I I've been on with teams and in the morning we learned about teamwork where you discuss and come up with solutions to an issue taking the rationale of one person and another with AI what is the place of teamwork and do you think it is uh it would be very wise when we over depend on AI at the expense of embracing teamwork in uh getting solutions to challenges as you answered the question by Isaac. I think it's something that cuts both ways. So I was giving my own personal reflections where I mean it was more like a coffee conversation. So it's more like a team of one conversation where you're bouncing ideas off of one person. It could be two people within the same thing where the engagement was necessitated by the fact that I can't do this alone. I need the people around me. Does that mean that that's no longer necessary? Actually no. all it has done it means like the preliminary work that I needed to do within a team setting and here we're talking about engaged teams right we're not talking about like the team of bad people we're talking about the good team where everybody's energy feeds off of each other what it now just simply does it means uh by the time the team is coming together for these conversations everybody is on a different is on a different level and it becomes magical so that's why I mentioned like uh the the people or the teams that are using AI become even better and I hope that the people who are in this hall are the ones who going to be doing that. Uh good afternoon. Good afternoon. My name is Isaac. Thank you. Yeah, thanks for that session. It was quite insightful. Erh, I have a question actually a risk factor because I believe those AI tools are owned by people h and we may be tempted to share so much data in those tools. Uh how secure is it? Are you on Facebook? Yes. Yes. Are do you use an Android phone? They know everything about you already. and you also use Gmail. I was worried about wait GPT will know so much about me and then I realized that Microsoft between Microsoft, Google, Facebook, they already know everything about me. So sadly I think the age of privacy died in 2004 or five when Facebook was founded. Yeah, it is what it is. Okay. Happy Sunday. Happy Sunday. My name is Lawrence and I have a technical question which it has been bothering me for now here since I introduced myself to AI and I'm going to derive the question from the book of Daniel 12:4 that says knowledge will be increased. Now what is therefore the role of the church or the position of the church in the emergence of artificial intelligence in the fourth industrial revolution? Yeah, there's a I think there's a verse that uh comes to mind when uh I think there's a parable about the servant who was going to be fired and then uh he went around asking the how much do you owe? I don't know it was 1,500 said okay write 800 how much do you a,000 write 600 and so on and I think like Jesus says like the sons of the world are a lot more yes that one and I think there's also like a place where I don't know whether it's within the same verse where it says learn how to be as sly as no as sly as foxes and as tame as doves serpents yeah Okay, I sort of know the vicinity of those verses but not the the exact one. But I if you ask me I I'll say like this tools become really powerful for us. So I'll give you an an example uh a few months ago uh when running Bible study for the young professionals that's with uh yes at New Life. And then we we realized that uh the the kind of questions that were indicated in the Bible study guide, that's a Bible study lessons were not very were not very engaging. And here's how I saw it cuz so there will be let's say on the Sunday part, they'll ask uh read verse this. What does the verse say? Now the challenge with such a question is for the people who read it, it's too easy to to reply. For the people who didn't read it, they are lost. So we thought about what if we could just like flip around the lesson and actually ask engaging life related questions uh around the lesson. So let's say you're talking about life on the let's say the the the the place of hell or something like that. So it could be uh what does the story of Lazarus say? Uh okay read verses I mean John chapter 11 and uh figure out what does verse 5 say and it's already said it. But the flip could be your friend is going through a difficult time. They've always been in church for a while and they're asking where is God? Now you see that's a question that everybody in the room can have an answer to including the person who hadn't read the lesson but they have the question but now you've also intrigued them to go read the lesson. Now coming up with those questions of for like a really engaging lesson is really difficult but with chat GPT turns out you can do it in like four or five hours. So the same tool that could be used in other contexts for evil or for non glorified uses, we as sons of the light can also use it in really powerful ways to engage with us. So I I think like it's something that uh we can yes the knowledge is increasing. It's it's it's crazy the the amount of uh stuff that we can now do with AI right now. But that also means from a gospel perspective, we can also do it. We can also do a lot more right now than the previous generation of evangelists, missionaries and so on needed to do. Um I think we will pause there. If you do have questions, you may reach out to him personally. There's one pending question about his uh I think entrepreneurial story. So I don't know whether you can wrap it up in a few minutes, 5 minutes or so. Yes, I'll I'll give a a much shorter version because I I heard what uh I wasn't here in the morning when to was speaking, but I had a I mean he mentioned a few things in his talk that really resonate with uh my own experience. Number one, I think he said something to the extent love your job. I think he said something to that, right? And I think someone asked how can you love your how can you love your job if your job is not is not lovable? And then I real at the time I'm just looking for the best analogy to explain this. And uh there's this book I was reading recently about Christian service and it was talking about um this guy who was uh afraid of mad men, you know. So he's walking at night, he's afraid of mad men. Uh but so he's walking at night and then there's a mad person who starts running towards him and he's terrified and then he starts running back and then a leopard starts running after him. Then it's like okay now the m running towards the mad man now feels like a better idea than running from the leopard. So entrepreneurship is like running from the leopard. If you think like um having a job is bad try entrepreneurship. That's why I listened carefully. Okay. He gave a little bit of I think at one point in the conversation he said have that job and love it. And then at some point he sort of mentioned that if you have a passion uh you can go try out like uh an idea out there. Yeah. So maybe that's the one thing I'll say. Don't don't don't try it. But if you really really really really uh passionate so much that you'll ignore this advice then go do it and uh there'll be like a longer story around it. So in my case, the very short uh version of what it costs to build uh Zeraki to be what it is, let's see, my monthly salary right now is still less than it was 10 years ago. Just like Tom mentioned that you the one who worries about everybody else getting their salaries, that's what I worry about every day. So even before thinking about do I deserve or do I need a raise I have to think about do we have enough money for everybody else and if we don't then you actually just like shel that idea uh for us to grow into the largest edtech in this space uh for the first 6 years the office no for the first four years 2015 to 2019 the office was in my house which means there was no privacy no whatever And then for the next 3 years I was living in the office. So for the last 10 years it's only in the last two and a half years I think now approaching three years that I've been actually living in my own house and it feels like freedom and this is having had a 7-year career before that. So there might be people who are fortunate for the I mean for their journey to be easier but underline that line fortunate and you are likely not to be fortunate. you're likely to go the long hard route. That's why most people who've actually run started a company will advise you to love your job. So that if you go and do it, you don't blame them for misguiding you. But that said, if you're that passionate, then in spite of all this challenge, you'll find it at something that's really fruitful to do. So if that then happens to be you maybe in a different forum we can have like a longer conversation on okay so how do you manage it how do you do it I hope that didn't take five minutes okay I just want to add one small uh question maybe it will help um augment what you've shared if I had to take you back to I think you said 2015 that's when you started how would you walk your entrepreneurial journey differently now that you know what you know now okay first would you even be an entrepreneur Maybe I should start with that. So, I'll take a little bit of a spiritual put a spiritual response to this cuz actually it's uh entrepreneurship has ended up making um me more spiritual. By the way, it's statistical. There's a Harvard Business School study that says uh entrepreneurs are 15 to 20% more spiritual than others. You could go Google it. But the thing is um Paul talks a lot about suffering and he says there's this verse where he says um and we all rejoice in our suffering cuz our suffering brings perseverance perseverance character character hope and hope does not disappoint us. Now if it was possible for God to get us to that point of hope without using suffering he surely would have done it right. But no, he understands like you actually have to walk through this painful journey to actually get the fruit which is like uh hope. So in a similar way there's a lot of painful things we I mean I've gone through and all entrepreneurs will tell you that they've gone through but without those pain the lessons that they end up learning will not be learned. So there's literally little that I can point to. I mean I'll struggle to think of wait which lesson was not important. I mean I'll tell you this was painful that yes that one also was very painful. But every one of those painful moments is the reason why I'm sitting here or I'm standing here 
+
+==================================================
+
+TIMESTAMPED TRANSCRIPT:
+[0.4s] Uh thank you so much. I'm delighted to
+[2.5s] join you today to talk about AI. And
+[7.5s] uh yeah, the the title that we're going
+[10.2s] to talk about today is AI and I how to
+[13.8s] stay in the room. And I remember when we
+[16.4s] first had that conversation with N about
+[19.0s] this, I was like, I don't think I'm the
+[21.0s] best person to talk about AI. But as
+[23.2s] I've grappled through this topic over
+[25.1s] the last couple of days and weeks, I've
+[27.4s] realized that it's something that means
+[29.6s] much to me. And I hope by the end of
+[32.6s] this conversation, it's also going to
+[34.2s] mean um much to you. So in very good AI
+[39.3s] fashion, the next slide was actually AI
+[44.9s] generated and then we can now go into
+[47.6s] our presentation with an AI joke.
+[53.5s] Guys, you need to
+[56.1s] laugh. It's the only funny part of this
+[59.4s] presentation today. So, if you haven't
+[61.3s] laughed, you've lost your your chance to
+[64.2s] laugh
+[65.6s] today. All right. So, I want us to just
+[69.7s] like uh think what situate this whole
+[72.8s] conversation in Kenya. Uh the next
+[75.8s] slide. We have about uh 3 something
+[79.8s] million formal jobs in Kenya out of
+[82.6s] something like 15 16 million jobs. Only
+[85.4s] 16% of jobs in Kenya are formal. So that
+[89.1s] means if you have a formal job in Kenya,
+[91.8s] you've won the lottery. You're one of
+[93.6s] 16% of people who have a formal job. I
+[96.6s] mean even if it doesn't feel like it,
+[98.2s] you've won a lottery. But I think today
+[101.8s] we're not just interested in uh the
+[104.2s] formal jobs. I mean uh the ne the next
+[106.7s] slide talks about the kind of formal
+[108.9s] jobs that we have uh in the country and
+[112.6s] uh as anticipated the single biggest
+[115.9s] category of formal jobs will be let's
+[118.2s] say the public sector jobs. So if you
+[120.0s] think about all the government employees
+[122.3s] civil servants they comprise the biggest
+[124.9s] uh category of formally employed people
+[127.3s] in Kenya and uh the next biggest
+[129.6s] category is teachers. So teaching again
+[133.1s] um most of the teachers in the country
+[135.0s] are employed by uh the government and
+[139.4s] when I uh sort of like speak with uh
+[141.9s] young professionals at New Life, I meet
+[145.0s] few who are teachers and I know few are
+[148.6s] enthusiastic about teaching. Maybe you
+[151.9s] guys are different. Okay, maybe subtle.
+[154.9s] I think like many of us aspire uh to get
+[158.2s] like um higher wage jobs. So I wanted to
+[161.7s] narrow down to the kind of jobs that uh
+[164.6s] let's say would pay a 100,000 and above
+[168.5s] and this now becomes quite different.
+[170.8s] Oh, no. No, not yet. Different. Only
+[172.6s] about 12 thou 12% of jobs in Kenya will
+[176.8s] have um will pay over 100,000 a month. I
+[181.8s] know 100,000 doesn't look like a lot and
+[185.0s] many of us would probably believe or
+[188.1s] think or want to wish that uh the number
+[190.3s] of uh jobs that are earning more than
+[193.0s] 100,000 in Kenya, it's kind of high. I
+[196.2s] mean, if I were to step back, think of
+[198.1s] it, 16% of people formally employed. Of
+[201.0s] those 16%, 12% of those formerly
+[204.0s] employed now the ones who are earning
+[205.9s] over 100,000. And maybe these are the
+[208.2s] jobs that we aspire uh to get. Now, this
+[212.6s] number is like global. So, looking at uh
+[216.0s] the average pay, whether someone's just
+[218.2s] joined the sector, whether someone has
+[220.6s] been working in the sector for 20 or 30
+[223.1s] years, these are the numbers. And uh the
+[225.6s] bulk as you can see from here 22% of
+[228.1s] them I believe will be in education. So
+[231.8s] uh yeah for those of us who didn't want
+[233.7s] to be teachers
+[235.7s] 22% that's a by far the largest category
+[238.7s] of people who earn more than 100,000
+[241.4s] teachers. Anyway I think when you go to
+[243.6s] the next slide there's a little bit of a
+[245.2s] catch. For you to earn over 100,000 as a
+[249.4s] teacher, as a government employee, which
+[251.3s] dominate the previous uh slide, you'll
+[254.1s] need to have been working for a very
+[255.8s] long period of time. Now, today we are
+[258.6s] young professionals. So, I thought why
+[261.0s] don't we think of the kind of high wage
+[264.6s] jobs that 30 to 40 year olds will be
+[267.5s] getting. So, I think like if you're
+[268.8s] below 30 or slightly above 40, I think
+[271.5s] this will be something that uh you'll
+[273.2s] think about. And uh these jobs are
+[276.5s] dominated by finance, insurance, IT and
+[281.1s] so on. Uh trade, wholesale trade and
+[284.7s] wholesale trade, retail. So think about
+[286.4s] like sales managers and things like
+[288.1s] that. And uh if you go to the next
+[291.6s] slide. So let me see. That's about Oh
+[296.2s] yes. But but let's dwell a bit on the
+[299.7s] pre actually this is the slide that I
+[301.8s] that I'm looking for. So yeah about 12
+[307.0s] something like between 10 to 14% in each
+[309.5s] of those various categories and if you
+[311.5s] put it all together about 36% of the
+[315.2s] people who have high wage jobs in our
+[319.0s] age group or the age group that's sitted
+[321.8s] in this room will be having jobs let's
+[324.6s] like uh in finance ICT uh sort of like
+[328.7s] consulting uh with uh roles sort of like
+[331.7s] listed in detail on the slide. So things
+[334.2s] like uh financial analysts, account
+[336.4s] managers, sales managers, project
+[338.6s] managers, uh engineers and so on. Go to
+[341.6s] the next slide
+[343.2s] please. Uh so let's say healthcare
+[346.6s] workers, uh project managers, operations
+[349.4s] managers, sales managers and I think
+[352.2s] like uh I mean I hope like uh Chhattip
+[355.5s] did really good research on this. So, as
+[358.0s] I'm going through these slides, I hope
+[359.8s] you're saying, "Okay, I think that's
+[361.4s] talking about me." Is it? Oh, it's
+[364.7s] talking. Oh, perfect. Then you're on the
+[366.6s] on the right direction. So, what I
+[369.3s] wanted to do next was to just help us
+[373.2s] visualize what does AI do to the kind of
+[378.7s] jobs that the people in this room either
+[382.3s] hold or aspire to hold. and
+[387.0s] uh AI projects that um if we took this
+[391.3s] room of I think roughly 70 people so
+[394.3s] let's extrapolate and say we're 100
+[396.0s] people in this room uh
+[399.2s] what projects is that in 5 to 7 years
+[403.4s] the number of people in this room would
+[405.2s] have reduced to
+[407.2s] 70 so like 30% of us will not have their
+[411.7s] jobs as a result of AI okay that's
+[414.9s] dramatic
+[416.2s] So pause for
+[418.1s] effect 30%. All right. The the graphs
+[421.0s] are not very clear but I if I want Oh
+[424.3s] yeah I think this is uh clear.
+[427.2s] So all across the board uh let's like
+[430.8s] really large change in uh finance and
+[433.3s] insurance slight change in ICT uh a lot
+[438.2s] of change in manufacturing and
+[439.9s] construction transportation huge change.
+[443.0s] So we expect uh so about like 30 people
+[446.6s] in this room of 100 will not have their
+[449.5s] jobs in about 5 to 7 years. The next
+[454.6s] slide goes into a little bit more
+[456.2s] detail. Uh just like giving like a broad
+[458.8s] categorization. So as I pointed out uh
+[461.2s] when it comes to finance, research,
+[464.1s] routine, IT, retail, transportation,
+[466.6s] those jobs are going to be quite
+[468.5s] affected uh by AI. So huge effect on
+[472.6s] that. Uh when it comes to jobs like uh
+[476.3s] healthcare uh senior leadership I mean
+[479.1s] AI can't make decisions for you. AI
+[481.5s] can't uh chat with your colleagues. So
+[484.4s] high level strategic leadership that
+[486.6s] will still remain. I mean cos are not
+[488.8s] going to lose their jobs. Uh but okay
+[492.3s] don't laugh. Yeah. So CEOs may not lose
+[495.1s] their jobs or senior I mean very very
+[498.0s] senior managers although the caveat will
+[500.6s] be if they stay AI I mean if they're AI
+[505.2s] compliant like if they use extensively
+[507.8s] AI to keep their jobs well so if you're
+[510.3s] looking at so like this I think gives
+[512.6s] you like a picture based on like the
+[514.6s] industry that you're in how AI may
+[517.6s] affect may affect you in the next slides
+[520.8s] I'm not going to go through all the
+[523.0s] various industries that I pointed out.
+[525.0s] I'm just going to use a few industries
+[527.4s] for illustrative purposes. So not all of
+[531.0s] you uh I mean will have this but I hope
+[534.1s] I'm already uh I've already spoken
+[535.8s] enough about chat GPT to uh give you a
+[538.5s] sense that you can actually go to chat
+[539.9s] GPT and figure out I mean whether it's
+[541.8s] chat GPT or cloud AI or um Gemini or
+[546.6s] whatever other AI tool that you familiar
+[549.0s] or conversant with to give like I mean
+[551.2s] to get like more context on what this
+[553.2s] might look like for you. Now in uh
+[556.9s] finance I said it I mean we we just said
+[559.2s] in like the previous deck that it's one
+[560.9s] of the areas that's going to be quite
+[562.6s] affected. So if you 10 people in finance
+[565.9s] in this room we expect to lose I mean if
+[568.2s] you're 20 people in this room we expect
+[569.9s] to lose like seven of you in 5 to seven
+[573.0s] years and uh that's because AI automates
+[577.2s] a lot of things that we are rather that
+[581.0s] our jobs entail. So if I step back about
+[584.3s] 15 years ago there was a lot of
+[585.8s] automation uh in the let's say the
+[588.1s] banking industry for instance and uh
+[590.7s] that means if you go to any typical bank
+[593.4s] or like the banking halls that have
+[595.6s] frequented you always typically find a
+[598.3s] lot more counters than there are people
+[600.5s] serving in those counters because once
+[602.5s] upon a time you needed so many people to
+[604.3s] be serving customers in those and that
+[606.6s] meant like uh most of the people who
+[609.6s] used to do let's say like uh the leg
+[611.6s] work And that was who had then replaced
+[614.6s] by automation like mobile money or
+[617.9s] ebanking systems and so on. Now those
+[621.4s] people went back to the offices to do
+[623.9s] analysis or to do risk or to do uh kind
+[628.6s] of like yeah it's datadriven analysis
+[631.1s] and AI is making this extremely easy to
+[635.0s] do. Maybe not extremely easy to do, but
+[637.2s] making it so much easier to do that
+[639.6s] employers, including uh me, I'll talk
+[642.3s] about my story a little later, are
+[644.0s] already thinking of ways to save cost,
+[646.4s] improve efficiency by having fewer
+[649.7s] people like the ones that are listed
+[653.0s] like on the slide. I'll go to the next
+[655.6s] uh the next page. Uh about 20% reduction
+[659.3s] in professional, scientific, and
+[661.7s] technical services. So think about like
+[664.6s] your whole consultants. I I'll use this
+[667.0s] as a as an illustration. So I had a
+[670.4s] really busy week, but I to be honest, I
+[672.7s] also wanted to use this for dramatic
+[674.6s] effect in this uh presentation today. I
+[677.8s] started working on this presentation
+[680.2s] yesterday at 6:50 p.m. while on a mat on
+[683.6s] my way to town. And I was just like,
+[686.2s] where do I start? I just like put all of
+[688.5s] that onto chat GPT. All this data
+[691.6s] crunching before AI, it wasn't possible
+[696.2s] for someone to do the night before. Oh,
+[701.0s] we also had a chboard today morning and
+[703.0s] I was uh I mean you heard I was the
+[705.2s] church cler. So I was putting together
+[707.1s] all of that. So this is not the kind of
+[709.4s] work that you start doing at 6:50 p.m.
+[713.0s] the day before your church board and the
+[715.3s] day before you in front of all these
+[718.0s] cameras. But AI makes it possible.
+[720.4s] Previously you'd need like a research
+[722.4s] assistant to be able to do that or you
+[724.5s] yourself need to become like a research
+[726.3s] assistant to be able to do that. So that
+[728.8s] kind of jobs I mean it's just like a 10%
+[733.0s] reduction in the need to do that or 10
+[735.4s] 20% or so on but then it results in that
+[739.0s] net 20% reduction in the number of
+[741.2s] people who need to be sitting in this
+[742.9s] room. Go to the next uh slide. And then
+[746.3s] like when it comes to let's say retail
+[749.2s] wholesale again there's a lot of
+[750.9s] automation that's now possible from uh
+[753.7s] AI mediated I let's like
+[757.2s] uh sales automation
+[761.2s] um yeah I'm think sales automation
+[764.3s] whether that so there's a first
+[766.5s] generation of sales automation that
+[767.8s] comes just like by having it systems in
+[769.9s] place but there's a second generation of
+[771.6s] sales automations where you're able to
+[773.3s] let's say set up your
+[776.1s] uh outbound channels that's on Facebook
+[779.0s] and so on without needing to hire the
+[781.7s] experts to be able to work on that. I'm
+[784.2s] not going to dwell so much on this page
+[786.2s] as you can see it's not really my forte.
+[788.5s] I'll come I'll come back to an example a
+[791.2s] little later on uh talking about like
+[793.1s] wholesale trade and then I'll give the
+[795.3s] last example that we're going to talk
+[796.7s] about is uh on the next
+[799.9s] slide which is uh manufacturing and uh
+[803.2s] construction again uh the kind of
+[805.8s] project management work that was
+[807.4s] previously necessary uh that was really
+[809.8s] kind of like intensor detail the kind of
+[812.4s] uh opportunities that will provide high
+[814.6s] wage jobs for the people in this room
+[816.6s] those opportunities are going to Step
+[818.5s] back. Now I want to take a pause before
+[822.0s] going to the next three or four slides
+[824.7s] where we'll be focusing on how do you
+[827.1s] stay in the room to put a little bit
+[830.0s] more color more context to the uh last
+[834.2s] four five slides that I've mentioned. I
+[837.0s] said when uh Nam reached out to me asked
+[839.8s] if I could talk about uh AI my gut
+[843.7s] instinct was no I like I like talking
+[845.8s] about entrepreneurship. that's what I
+[847.1s] live on a day-by-day basis, but AI is
+[849.3s] not something that I live on a
+[852.2s] day-by-day basis. And so maybe I should
+[855.1s] talk about something else. But then I
+[857.4s] said, okay, I've already mentioned that
+[859.4s] as I'm thinking through this
+[861.4s] presentation, I realized there's a lot
+[863.6s] of ways in which AI already uh affects
+[867.8s] influences shapes what I do in ways that
+[871.1s] uh that directly bear on the conclusions
+[874.9s] that I was drawing that I need to share
+[876.7s] with you. Uh I'll give two two examples
+[880.5s] actually give three examples. So the
+[882.8s] first example over the last uh 8 weeks
+[886.5s] we've been working on a new uh embedded
+[889.7s] finance product. Okay. So what's an
+[892.9s] embedded finance product? An embedded
+[895.0s] finance product is um uh let's
+[899.4s] see when you let's say want to go to uh
+[903.2s] let me say you want to buy uh a fridge
+[906.6s] at um Nakumat and you don't have the
+[909.7s] money not Nakumat uh NAS or quick don't
+[912.9s] have the money and at the point of uh
+[916.6s] purchasing the product you told oh you
+[919.2s] can fizza is it yeah I think fela is the
+[921.5s] one uh that does it on that's an
+[923.9s] embedded finance product because you are
+[926.0s] at a supermarket just minding your own
+[928.2s] business in terms of just like uh trying
+[929.9s] to buy your fridge but then the bank
+[933.9s] somehow walks into your life and gives
+[936.5s] you like credit that loan you don't need
+[938.9s] to walk to the banking hall to get that
+[940.8s] credit product so embedded finance or
+[944.7s] let's say you want to I think there's
+[948.0s] mosmos which is like oh I want to save
+[950.6s] this money over a long period of time
+[952.9s] before I I purchased like uh the fridge
+[957.0s] if it's offered as a standalone uh
+[959.8s] solution then that's like a fintech
+[963.0s] product. But if it's offered let's say
+[965.4s] you're coming to Zeraki and you say I
+[966.9s] want now save for my school fee I want
+[969.5s] to save for my what if I want to take a
+[972.4s] loan for paying school fee then that
+[975.1s] becomes embedded
+[976.8s] finance. Now we are not embedded finance
+[980.1s] products but we are education experts
+[982.3s] and over the last 8 weeks we've been
+[984.2s] working uh with uh a couple of the
+[987.3s] financial services uh companies in Kenya
+[989.7s] to develop like embedded finance
+[991.7s] solutions that are going to be embedded
+[993.7s] onto the Zeraki platform.
+[996.5s] Three weeks ago, no two weeks ago, as we
+[999.4s] were tending towards coming up with very
+[1002.5s] fine-tuned versions of this product, it
+[1004.8s] occurred to me that for the first time,
+[1007.2s] I was almost at the near or at the tail
+[1010.4s] end of the product design process
+[1013.8s] without having extensive conversations
+[1016.8s] with the many friends that I have who
+[1018.7s] are working in fintech or who are
+[1021.6s] experts in that space. Because
+[1024.2s] previously I'll come up with an idea,
+[1026.6s] sit down with them for coffee, then a
+[1028.8s] coffee at 2 weeks later, maybe a month
+[1031.1s] later to consult with them on how to
+[1033.7s] make this product work well to pace our
+[1037.4s] implementation and just to be sure that
+[1039.0s] we're doing the right thing. But right
+[1041.4s] now, what did we do? We went to chat
+[1044.1s] gave us like a whole play on if you want
+[1046.8s] to roll out a new product, this is what
+[1049.3s] you need to do. Uh these are the
+[1052.5s] questions you need to be thinking of if
+[1054.7s] you're partnering with let's say like a
+[1056.8s] bank. These are the questions that you
+[1058.2s] need to be worrying about whether from a
+[1060.2s] legal perspective, from a compliance
+[1062.2s] perspective, from a sales perspective,
+[1064.0s] from a marketing perspective, from a
+[1065.9s] distribution perspective. You see all
+[1067.8s] these things that we are not experts in.
+[1070.5s] We're walking into the room and our
+[1072.2s] partners think that we really know what
+[1074.7s] we are talking about. We actually do cuz
+[1077.7s] we had to write those prompts on on
+[1080.3s] chaptt. But the point is previously we
+[1083.4s] would have needed to hire or either hire
+[1087.4s] a full-time fintech expert to come and
+[1089.7s] work with us or at the very least get a
+[1093.1s] fintech consultant and these are the
+[1095.4s] kind of like high wage jobs that we are
+[1098.2s] all looking for. We would have needed to
+[1100.2s] get that for us to get to this space.
+[1102.2s] The second example I wanted to give is
+[1104.2s] uh marketing. We now run a company of
+[1106.8s] about 120 people. uh marketing has been
+[1110.1s] one of those things that we do as a by
+[1111.8s] the way until this year we realized we
+[1114.1s] actually need to devote like a I mean
+[1116.7s] have a dedicated budget for this hire
+[1118.6s] two or three people to get into the team
+[1121.3s] and you it may be curious for you to
+[1123.4s] know that uh the person who's leading
+[1126.7s] our marketing team right now who was
+[1129.8s] coming up with the whole strategy has I
+[1133.0s] think uh like one and a half years of
+[1136.2s] work experience and she's doing a okay
+[1139.4s] job. I mean a a good job. And um that's
+[1143.4s] something that would have been
+[1144.8s] unthinkable let's say 5 years ago cuz
+[1147.0s] you want someone who has a lot of
+[1148.8s] experience who's able to come up with
+[1150.7s] the right strategic approach to guide uh
+[1154.6s] the way a company of 120 people is going
+[1157.2s] to implement their marketing resources.
+[1159.4s] So number one would have been tell us
+[1161.8s] what you've done before. Give us
+[1164.1s] evidence of the kind of strategic work
+[1165.8s] that you've done before. again the kind
+[1167.9s] of high wage job that a 30 to 40 year
+[1170.2s] old young professional would want to do
+[1172.6s] for us because of AI we can risk doing
+[1175.1s] it with um uh I mean someone who's just
+[1178.2s] like one or two years out of out of
+[1180.6s] campus and learn with them I know I said
+[1183.3s] I was going to give three examples but I
+[1184.9s] hope like those two gives you a sense
+[1186.7s] that uh when we walking through these
+[1189.0s] when I'm walking through these slides
+[1190.6s] it's not just like something that now
+[1193.6s] theoretical or something that is
+[1195.8s] futuristic It's something that's
+[1197.7s] happening here and now and other
+[1200.6s] employers are already thinking about the
+[1202.6s] same things putting pressure on the
+[1204.6s] kinds of opportunities that we are
+[1206.2s] thinking of would like to get for
+[1208.1s] ourselves.
+[1209.6s] So what do we
+[1212.4s] do? The next deck gives again um I mean
+[1216.6s] the next slide gives some examples of
+[1218.8s] some of the things that we can do to
+[1220.6s] stay in the room. Again I just focus on
+[1223.0s] these uh four careers that uh we pointed
+[1225.9s] out. Uh so financial services uh retail
+[1228.8s] and I mean retail and wholesale
+[1231.9s] manufacturing and uh professional
+[1234.6s] services and uh let's see so in the
+[1238.1s] financial and insurance activities room
+[1241.8s] as AI automates risk analysis customer
+[1245.1s] service and so on.
+[1247.4s] Please learn AIdriven financial tools
+[1251.3s] and specialize in
+[1255.2s] compliance. I want to pause here and uh
+[1258.9s] I mean I I didn't plan to tell this
+[1260.2s] story but I think like uh it it's
+[1263.1s] probably important to drive the point
+[1265.2s] home. So there's this joke uh that some
+[1268.6s] of us may have seen uh where two friends
+[1272.7s] okay two bad friends are walking in a
+[1275.3s] forest and a bear happens to I mean I
+[1278.8s] mean a bear appears and one friend is
+[1281.6s] like oh no we are
+[1284.4s] dead another friend like no we are not
+[1287.1s] dead and uh the friend is like wait are
+[1290.5s] you going to outrun the bear the friend
+[1293.0s] like no I just need to outrun
+[1296.9s] you okay I I pro those are going to be
+[1300.3s] like another joke okay that was the
+[1301.7s] second joke so the point yeah they're
+[1303.5s] going to be 70 people who are going to
+[1305.6s] be in this room let's say that uh in
+[1309.0s] these four slides we're trying to say
+[1312.1s] that we're just trying to ensure that we
+[1315.9s] are not part of the 30 who are going to
+[1319.0s] be out of the room we're going to be
+[1321.4s] part of the 70 who stay in the room. And
+[1324.9s] if that's you within the financial and
+[1327.2s] insurance activities room, you want to
+[1329.4s] be the person who's making the AI
+[1332.6s] related strategies for your institution
+[1336.6s] or organization so that as the other
+[1339.0s] people are getting displaced by AI, you
+[1341.8s] your role becomes even more important or
+[1344.5s] more critical within uh the
+[1346.6s] organization. And for you to get to that
+[1349.1s] space is what you're saying you need to
+[1351.4s] start learning how to or rather use
+[1354.5s] AIdriven financial tools specializing in
+[1357.7s] com specializ in compliance. But the
+[1360.4s] point is the stuff can be auto that can
+[1363.0s] be automated will keep getting
+[1364.5s] automated. The stuff that cannot be
+[1366.8s] automated the strategic nuanced kind of
+[1370.2s] roles are the ones that are going to
+[1372.6s] persist. The next slide please.
+[1376.0s] uh if you're in the professional and
+[1377.8s] scientific technical fields again so as
+[1380.2s] AI AI enhanced research growth you need
+[1383.5s] to master AI assisted analysis and uh
+[1387.0s] strategy so I'll give an example uh two
+[1390.0s] years ago when we joined the young
+[1392.7s] professionals team at New Life we used
+[1395.4s] to take like all these
+[1396.9s] surveys and uh surveys are very easy
+[1400.2s] when you're collecting them but when
+[1402.2s] you're analyzing them it's a pain cuz
+[1404.6s] you have let's Say 120 people who
+[1407.5s] responded to seven different questions
+[1409.4s] and you want to know uh what like that
+[1413.8s] whole permutation 120 * 7 that's not
+[1417.1s] even like the total number of
+[1418.2s] permutation of answers that you're
+[1419.8s] getting from that you want to simplify
+[1421.8s] it in three or four points that will
+[1425.8s] resonate with most of those people
+[1427.7s] before chat keep that would be like a
+[1429.7s] four 5day activity if you so like
+[1432.3s] dedicated to it right now you just like
+[1435.4s] feed it into chat GPT or cloud. No, I I
+[1439.5s] was actually like uh chat GPT is not
+[1441.8s] good at it but Gemini is good at it. So
+[1444.2s] you just like plug it into Gemini,
+[1446.3s] everybody thinks like you fantastic but
+[1449.0s] the truth is you get a near perfect
+[1452.3s] answer within minutes and you move on to
+[1455.4s] the next uh analysis and so on. So make
+[1458.6s] sure to learn to master AI assisted
+[1460.7s] analysis and strategy tools. Uh the next
+[1463.8s] uh again uh so when it comes to uh
+[1466.6s] wholesale and retail so AIdriven inven
+[1469.3s] AIdriven inventory sales chat boards as
+[1472.3s] they proliferate so uh focus on again
+[1476.5s] first learning the tools and becoming
+[1479.0s] adept at using those tools but then
+[1481.0s] there are also areas that may not be
+[1483.7s] replaced uh with AI uh as soon let's say
+[1488.7s] human interaction human engagement let's
+[1491.3s] say if the engagement is happening on
+[1493.2s] digital spaces. That's now easier for AI
+[1496.8s] to do. I mean, uh, 5 years ago, you used
+[1500.0s] to go through the automatic voice
+[1502.6s] responses when, uh, we answer calls. And
+[1506.1s] most of us, if you're like me, I would
+[1507.8s] wait until it says speak to the
+[1510.5s] operator. So, I'll just go and speak to
+[1512.5s] the operator. But right now, most AI
+[1515.1s] chatbots that you're going to find on
+[1516.9s] websites, they'll answer your questions
+[1519.3s] to your level of satisfaction. So you no
+[1521.5s] longer need to speak to that. But when
+[1523.4s] it comes to B2B sales, they still want
+[1525.6s] to see you, touch,
+[1528.4s] feel, I don't know, put a name to the
+[1530.6s] face and so on. So those ones, it might
+[1533.0s] be a while before they replaced uh with
+[1535.4s] AI. So maybe those are some like some of
+[1537.4s] those things where you may stay in the
+[1540.0s] same room but by moving slightly to the
+[1542.9s] left to the right and taking on an
+[1544.6s] adjacent opportunity. Uh then the last
+[1548.4s] one in manufacturing and construction
+[1551.7s] again the key point here is master the
+[1555.3s] tools and yeah so master tools whether
+[1558.9s] it's like in operations and uh in
+[1561.9s] logistics. So this is quite a a handful
+[1566.1s] and uh you may then be wondering how do
+[1569.6s] I get started uh
+[1572.8s] today now? Oh gosh, so many stories that
+[1576.5s] I hadn't intended to tell, but maybe
+[1578.5s] stories I think like they help ground
+[1580.7s] things. It's one thing to learn how to
+[1583.9s] swim by reading a book, by watching
+[1586.0s] other people swim, watching the Olympics
+[1589.0s] and so on. It's yet a whole different
+[1591.7s] experience to actually swim.
+[1596.8s] Now, for me, one of my passions again,
+[1600.0s] photography. I've I I I remember like
+[1602.7s] taking like a photography course about
+[1605.4s] 10 years ago. But the most critical tool
+[1610.1s] about learning how to become a better
+[1612.3s] photographer is take many photographs.
+[1617.0s] So take a thousand photos and then
+[1619.0s] agonize over okay of these five photos
+[1622.0s] which are the two that I should keep cuz
+[1623.6s] I don't have unlimited space on my hard
+[1625.8s] disk. And with each of the interactions
+[1629.2s] or engagements that you're having,
+[1630.6s] trying to figure out out of these five
+[1632.3s] photos, I want to remain with only two.
+[1634.0s] Why should I delete this? Why should I
+[1635.7s] keep this? You incrementally learning
+[1638.6s] how to become better at identifying a
+[1640.8s] good photo. With every next photo that
+[1643.3s] you're taking, you're becoming
+[1644.8s] incrementally that better at identifying
+[1647.8s] if I'm inside this uh inside this
+[1651.0s] sanctuary, what lighting do I need to
+[1653.2s] have, what lens do I need to have, what
+[1655.2s] exposure, you know, all those little
+[1657.4s] tiny things that you learn over time. so
+[1660.2s] much that the more experienced
+[1662.6s] photographer will most generally be the
+[1665.1s] person who has been more
+[1667.0s] deliberately taking photographs over a
+[1669.6s] long period of time. In a similar way,
+[1673.0s] you can't become a master in using chat
+[1676.6s] GPT. No, you can't become a master in
+[1678.9s] using AI tools if you actually do not
+[1682.5s] use AI tools on a regular basis. Anyone
+[1686.3s] can type something into chat GPT. only a
+[1689.3s] few people are able to get something
+[1691.3s] meaningful out of chat GPT and you only
+[1695.0s] learn how to become better at getting
+[1697.6s] something out of chat GPT cloud uh
+[1701.1s] perplexity you name it whichever the
+[1703.3s] tool is you only become better at doing
+[1705.9s] it if you immerse yourself in it for me
+[1708.1s] that journey started last year I think
+[1709.7s] I've been uh on the paid version of uh
+[1713.1s] chat GPT for the last uh 12 to 14 months
+[1716.6s] or something like
+[1718.3s] kind of expensive, $20, but if I think
+[1721.0s] of any one of the single assignments
+[1723.0s] that I do with CHP, it pays for it. I
+[1726.0s] mean, for the investment so many times
+[1728.4s] better. It's a not not just like a
+[1731.4s] conversation partner, but it's like a
+[1733.6s] really great engagement partner. One of
+[1736.0s] the things that most managers would,
+[1737.6s] let's say most managers or people doing
+[1739.3s] like strategy jobs will tell you the
+[1741.9s] most difficult thing is to find someone
+[1744.3s] uh that you can bounce ideas off of chip
+[1748.4s] you can bounce any idea off of. Wait, is
+[1751.0s] this like a good JD to have? Okay, what
+[1753.5s] should I need to be thinking about to
+[1755.2s] make it better? Uh what if you look at
+[1758.3s] this? What's missing in this other? I
+[1760.1s] mean like there's so many of those
+[1761.2s] permutations but just like swimming just
+[1764.0s] like photography just like most other
+[1767.3s] things where the 10,000 rule applies
+[1770.6s] even with AI that applies. So what do
+[1773.4s] you do? Uh take us to the next slide.
+[1777.9s] Hope is not a strategy but starting
+[1780.4s] today is. So I hope that uh I have
+[1784.3s] managed to persuade you to not bank on
+[1787.8s] hope. uh got the last slide but to be
+[1792.6s] the person who's not going to be
+[1794.0s] replaced uh with AI. So we said at the
+[1796.4s] beginning with funny boss but it turns
+[1798.5s] out that AI will actually replace uh I
+[1801.6s] mean this is technically not true based
+[1804.1s] on what we said cuz we said uh in that
+[1806.2s] room of 100 will have 70 people
+[1807.9s] remaining. So yes uh people actually be
+[1811.4s] replaced by AI but more accurately if
+[1816.2s] you are the person with AI I mean most
+[1819.9s] likely the person who's going to replace
+[1821.1s] you is going to be the person who has
+[1823.0s] mastered the use of AI and I hope that
+[1825.8s] all of you guys here will be the ones
+[1828.2s] who are going to stay in the room as AI
+[1831.3s] disrupts.
+[1833.3s] Maybe I'll start with myself. I felt
+[1836.3s] triggered when you were talking about AI
+[1838.8s] because I'm in an industry where um 10
+[1841.8s] years ago when I was doing research in
+[1843.4s] the finance industry it would take me a
+[1845.9s] week to get data but then now it takes
+[1848.6s] me less than an hour. In fact um it
+[1851.4s] would take let's say 3 days to do a
+[1853.2s] slide. Now it takes me 1 hour. So I was
+[1855.8s] just as you were saying I was like I'm
+[1857.8s] feeling it. So I I need to find a
+[1860.8s] strategy outside hope to be able to
+[1863.1s] implement it. Now you didn't mention
+[1865.2s] anything to do with the health industry.
+[1867.2s] So is there any hope that the AI I mean
+[1870.5s] health industry will be spared? So I
+[1872.9s] think like uh health health and other
+[1874.8s] regulated industries might uh persist
+[1877.6s] for a while. So let's say education for
+[1881.4s] instance I mean uh even if you have the
+[1883.7s] best technology putting that technology
+[1885.4s] in the classroom revol I mean involves
+[1887.6s] layers and layers of bureaucracy from
+[1889.4s] one agency let's say one government
+[1891.3s] agency to another and rightly so because
+[1893.8s] uh education is kind of like critical
+[1895.5s] you want a very measured and risk averse
+[1898.3s] approach towards doing that and now
+[1900.7s] health is pretty much to the extreme um
+[1904.7s] end of that spectrum you don't want to
+[1908.2s] You don't want AI to be doing that
+[1910.8s] medical review and AI right now
+[1914.8s] hallucinates. I mean comes up with
+[1916.6s] things that are not even um that not
+[1919.6s] even exist. So you don't want that
+[1921.3s] hallucination to happen in your own
+[1923.1s] case. So it will be a while before it
+[1925.8s] gets fully disrupted. But that said,
+[1928.2s] there's a lot of uh support services
+[1930.3s] within the healthcare ecosystem that
+[1933.0s] will probably be
+[1935.1s] uh automated a lot more. So whether that
+[1939.6s] comes from I know like um medical
+[1942.6s] records for instance, I think like it's
+[1944.6s] much easier uh to now uh put them on
+[1947.4s] electronic medical records and then that
+[1950.9s] information can be mined to get more
+[1953.8s] information. So maybe that consultant
+[1957.2s] who would previously only be able to see
+[1959.9s] five patients because they want to do
+[1961.6s] the deep research that brings together
+[1963.8s] all that perspective with their eye
+[1966.7s] they'll probably be able to see like six
+[1968.4s] or seven and that diminishes the
+[1970.3s] opportunity for the person who's coming
+[1972.0s] into the field. So eventually it affects
+[1974.5s] all of us. The trick is uh we want to be
+[1977.8s] the people who end up staying in the
+[1979.3s] room as other people are disrupted out
+[1981.0s] of the room.
+[1983.0s] Thank you for that. Um, anyone with a
+[1985.0s] question?
+[1987.9s] Praise God. Amen. My name is Eric Oboa.
+[1990.7s] I have a question. The question is uh
+[1993.3s] how are we going to prevent AI from
+[1996.3s] affecting our social
+[1999.9s] life and as well as how it is going to
+[2004.1s] protect ourselves from it affecting
+[2006.5s] mostly our eyes because mostly working
+[2010.6s] on
+[2011.8s] technology for long hours leads to
+[2014.5s] migraines and something of sort eyesight
+[2018.0s] loss such things and again What uh
+[2022.4s] online platform would you recommend for
+[2025.2s] someone to learn AI tools on right now?
+[2031.0s] Maybe there's a platform where we can go
+[2033.7s] and learn all the AI tools and lastly I
+[2037.8s] am told you are to share your background
+[2040.2s] story on how you came to be who you are.
+[2043.4s] Kindly share with us. Um I think um
+[2047.1s] Joseph if you don't mind uh before we go
+[2049.1s] to Cliff uh let him answer. I think
+[2051.0s] those were two or three questions in
+[2052.6s] one. So I think it was like four
+[2054.8s] questions for Eric. So I think like in
+[2057.3s] terms of like the tools that you can get
+[2061.3s] started with uh there was the last uh
+[2063.7s] slide this the third last slide that was
+[2066.9s] giving just like uh an example of some
+[2069.6s] of the areas that you can focus on
+[2071.1s] depending on the areas that you're
+[2072.4s] interested in. So it could be you're
+[2074.3s] interested in photography or you're
+[2076.1s] interested in um I mean so Adobe for
+[2079.4s] instance or you interested in
+[2082.1s] photography or videography you go for a
+[2084.8s] different tool if you're interested in
+[2086.7s] writing if you're in research even when
+[2089.4s] it comes to coding I think um for those
+[2092.2s] of us who are in the software industry I
+[2093.9s] was just reading listening to a blog
+[2096.7s] whether to a podcast yesterday where the
+[2099.2s] Y combinator which is where you have the
+[2101.4s] best startups globally typically go to
+[2103.7s] the Y combinator. I think they in the in
+[2106.6s] that post they were saying that um
+[2109.8s] 75% of the founders in their current
+[2112.6s] cohort say that 95% of the code for
+[2118.6s] their products was written with AI like
+[2123.1s] 95% of the code for their product was AI
+[2126.2s] generated. So that's why I'm saying uh
+[2128.4s] even though AI is something like uh
+[2131.3s] techreated AI will still affect the
+[2133.6s] number of uh tech jobs. So depending on
+[2135.9s] what your industry is, your focus will
+[2137.7s] be uh different. There was the question
+[2140.7s] about Oh boy, I thought I had it but
+[2142.9s] then I skipped a bit. Something about
+[2145.4s] social. Oh yes, how AI disrupts. So the
+[2149.9s] thing is
+[2151.4s] uh as with every good thing, some good
+[2156.7s] things come without natural barriers.
+[2160.5s] So I'll pick this up from a health talk
+[2164.1s] that was given in the tmi no hope for
+[2167.8s] Africa series a year or two ago where
+[2170.6s] they're saying our bodies for instance
+[2172.4s] are naturally weak to sugar and uh
+[2177.0s] that's reasonable because a lot of the
+[2179.7s] foods that are naturally found don't
+[2181.8s] have too much sugar. you have to put in
+[2183.6s] a lot of effort to be able to consume
+[2185.2s] the sugar whether that's even like sugar
+[2186.9s] cane however much you like it at some
+[2189.2s] point your teeth just I mean your jaws
+[2191.8s] get uh tired but you have like sweets
+[2195.2s] then you can take too much too much
+[2197.4s] sugar and so on and there is something
+[2200.9s] that uh not just AI but social media has
+[2207.2s] managed to tap into our own psyches
+[2210.8s] think of it some of the world's smartest
+[2213.1s] people just trying to figure out where
+[2215.0s] our emotional vulnerabilities are and
+[2217.4s] how software can fit into or plug into
+[2220.2s] those vulnerabilities making social
+[2222.5s] media and a lot of media quite uh
+[2225.2s] addictive. Now there's already been some
+[2228.0s] form of push back. So for instance in
+[2229.6s] the Silicon Valley a lot of the same
+[2231.8s] people who built this software they
+[2234.5s] don't want their kids to touch tech at
+[2236.9s] home because they understand how
+[2238.8s] horrible tech can be when people are
+[2241.3s] young. So even as we're thinking about
+[2243.8s] how to use these tools, we need to think
+[2247.7s] of how to protect ourselves from the
+[2249.8s] worst
+[2250.7s] excesses. Now AI can also make uh some
+[2255.0s] of the excesses you're talking about
+[2256.5s] more bearable. So for instance um
+[2259.6s] previously when it comes to doing your
+[2261.8s] research you needed to type it out but
+[2263.9s] right now for most of the chat order
+[2267.7s] from the chat AI tools you can speak you
+[2270.6s] can even take like images and so on. So
+[2272.8s] it might actually make it easier to
+[2274.4s] interact or engage with that. Uh there's
+[2277.5s] a question about my story. Maybe I can
+[2280.4s] take it at the
+[2282.0s] end because it might be okay a little
+[2285.0s] long
+[2285.9s] or so. Let me handle the other questions
+[2288.9s] and then we'll talk about like the
+[2290.4s] story.
+[2292.0s] Hello. Thank you Isaac. That was really
+[2294.2s] beautiful.
+[2295.8s] Um and it's it's impressive to see how
+[2299.4s] much you actually use these tools. Um I
+[2302.1s] just find it very interesting that you
+[2303.8s] do that. Um my question is around a risk
+[2307.8s] factor because we have some really
+[2309.2s] really persuasive tools out there and
+[2312.1s] everything they produce looks okay
+[2315.1s] actually looks correct.
+[2318.2s] Um my fear is that no one is doing their
+[2320.8s] due diligence to actually confirm
+[2323.0s] anything that comes out of an AI chatbot
+[2325.5s] window. And I don't know how you cope
+[2327.5s] with that as you use it more and more in
+[2329.7s] the work setup so that you're not you're
+[2332.2s] not spreading disinformation that came
+[2334.7s] out of um uh because the tools are
+[2337.6s] powerful, the tools are great at what
+[2339.0s] they do, but the tools can also make
+[2341.0s] mistakes. And so I'd just like to hear
+[2343.2s] you out as you encourage everyone to go
+[2345.1s] and use AI tools. How exactly do you
+[2347.4s] mitigate for that very thing?
+[2350.2s] That's a really fantastic question to
+[2352.3s] ask and a very nuanced one that uh goes
+[2355.0s] back to what I was mentioning that your
+[2357.4s] experience and exposure in using these
+[2359.3s] tools is what makes it really powerful.
+[2362.0s] So I mean the just think about like this
+[2366.8s] presentation that I that I made uh the
+[2370.1s] reason why I didn't mention it but the
+[2372.2s] reason why I was able to do it again in
+[2374.0s] the 40 50 or no in the 3 4h hour time
+[2377.7s] segment is that this is actually an area
+[2379.9s] that I have an interest in. So I know
+[2382.7s] the kind of questions to ask. I know the
+[2385.6s] kind of appropriate push back to make to
+[2387.4s] the AI. So at some point of just like no
+[2389.9s] chachi you're taking me for a ride you
+[2392.4s] need to give me something else and
+[2393.7s] they're like okay yeah I'll go do it
+[2395.1s] again. No, but there's, you know, that's
+[2397.0s] sort of like push back of conversation
+[2398.6s] or engagement that you'll be able to
+[2400.9s] have or rather you can only have it if
+[2403.8s] you yourself have a measure of
+[2406.8s] expertise, knowledge, knowhow both on
+[2410.2s] the facts but also on let's say the
+[2413.6s] argument or even the strategic direction
+[2416.6s] that this needs to take. So it's not to
+[2419.8s] say that anyone using chhatt will be
+[2423.4s] able to come up with something here.
+[2425.4s] Actually I just found the the right
+[2426.6s] joke. You know it's just like not anyone
+[2429.6s] who can play the piano can produce a
+[2432.2s] masterpiece or not anyone who can write
+[2435.3s] in English can write a novel. So it's
+[2438.6s] the same way like
+[2440.1s] uh what what chat what these chat bots
+[2443.8s] have done is to remove what uh the
+[2447.4s] technical barrier for most people but it
+[2451.6s] just makes it
+[2454.0s] uh easier for people who are really good
+[2456.9s] on the strategic elements to come out of
+[2460.5s] their shell and to shine to to shine
+[2463.4s] through. So what I hope
+[2465.7s] is versat learning how to be conversant
+[2468.9s] with comfortable with and versatile with
+[2471.4s] the tools enables you to stop thinking
+[2474.3s] about the tools. So we're no longer
+[2476.7s] looking for someone who is good in R or
+[2479.8s] someone who is good in computing with
+[2481.8s] Excel. We're looking for someone who's
+[2483.7s] able to come up with a better business
+[2485.9s] decision as a result of previously it
+[2489.0s] was Excel but right now with CHP
+[2491.8s] occupying that space or the other uh uh
+[2493.8s] tools that we're talking about makes you
+[2495.8s] much better at making decisions and
+[2497.4s] that's something that takes a while and
+[2499.5s] deliberate engagement.
+[2503.3s] I hope that has been um you're satisfied
+[2505.7s] with the answer. will take I think one
+[2508.1s] two last questions here and then he will
+[2511.0s] answer the final question on his story.
+[2513.4s] Joseph, I think there are two hands
+[2514.7s] here. Oh, there was a hand there. Okay,
+[2517.1s] let me just Hi, Isaac. Hi. Thank you for
+[2520.6s] the presentation. My name is Orlando. I
+[2523.4s] have two questions. Um, I think there's
+[2526.1s] a couple of negativity around AI. Some
+[2529.4s] people would say it lowers the thinking
+[2531.4s] capacity of human beings. So as someone
+[2534.2s] who's in the edtech space and passionate
+[2537.4s] about uh education, does that worry you
+[2541.2s] especially know that it's replacing uh
+[2543.9s] time taken for research and uh and all
+[2547.3s] that? And then my second question was
+[2550.4s] generally is there are there caution
+[2553.2s] that maybe you can share with us as we
+[2555.8s] move towards embracing AI or it's
+[2558.7s] generally 100% good for for consumption?
+[2562.6s] No, nothing is good. Especially a as
+[2565.0s] powerful as AI cannot be good. So I
+[2568.0s] think there needs to be several guard
+[2569.7s] rails.
+[2570.7s] Uh let let me just like focus let's say
+[2573.4s] on education for instance where uh what
+[2576.6s] you're hinting at that AI is not is not
+[2580.3s] allowing students to let's say think for
+[2582.4s] themselves or people to learn how to
+[2583.8s] think for themselves. Let me put it this
+[2586.2s] way. When we were learning how to do 1 +
+[2590.7s] 1 or even the multiplication tables, you
+[2595.8s] already had the log books. Okay, depends
+[2598.4s] on how old you are. Uh you'd know what
+[2601.4s] the logarithmic tables are. And then at
+[2604.6s] some point uh you learn how to use a
+[2607.5s] calculator and so on. And if you're
+[2609.8s] thinking about the progression of the
+[2611.8s] curriculum, there are things that were
+[2614.4s] introduced to us when we were in grade 1
+[2617.3s] or class one that by the time you're in
+[2620.2s] grade five, you're wondering why did
+[2622.7s] they need to go through this trouble.
+[2625.2s] And by the time you're getting to, let's
+[2627.2s] say, form four, you realize, oh, if they
+[2630.6s] didn't teach me this in class one, then
+[2633.3s] I couldn't have learned I couldn't have
+[2635.8s] grasped the full concept in class 5. and
+[2638.8s] then the thing that we were taught in
+[2640.8s] let's say form three will not have made
+[2643.3s] sense. Now when it comes to math and the
+[2646.2s] sciences and all those other fields,
+[2648.2s] there's already been a lot of work that
+[2649.7s] has happened to figure out what step by
+[2653.0s] step uh what steps do you need to take
+[2657.7s] in order to learn the big one. In other
+[2660.4s] words, you probably first have to learn
+[2662.2s] the vowels before learning the words,
+[2664.0s] before learning the sentences and the
+[2665.4s] paragraphs and so on. Now, what you're
+[2668.6s] mentioning is true in
+[2670.5s] that AI potentially disrupts that
+[2674.4s] process because without AI to train
+[2678.2s] someone how to think, you could actually
+[2680.2s] ask them to write an essay. But because
+[2683.2s] the essay will not just like
+[2684.6s] materialize, someone would actually have
+[2686.8s] to think in order to write that essay. I
+[2690.6s] submit like thinking is still really
+[2692.6s] critical and whoever can think I just
+[2694.5s] like to go back to the question that we
+[2696.1s] answered previously. The person who's
+[2698.2s] able to think who has the right context
+[2700.4s] whether the context is in terms of like
+[2702.2s] uh what the facts are what the right
+[2704.8s] argument is what the general strategic
+[2706.9s] direction that's the person who's going
+[2708.6s] to be really good at figuring out how to
+[2711.4s] make the best use of AI. Now these
+[2714.1s] skills might be learned with support of
+[2717.0s] AI but these skills I believe will also
+[2720.5s] necessarily need to be learned without
+[2723.0s] the use of AI. So that those skills are
+[2725.4s] quite drumed in. So that will be for
+[2728.3s] instance the equivalent of saying when
+[2730.7s] did Namibia get its independence? The
+[2733.0s] teacher knows that if you have your
+[2734.6s] phone in the exam room you can Google
+[2736.3s] it. And so they say like, "No, we're not
+[2738.5s] going to allow you to have the phone in
+[2740.2s] the uh in the exam room because we
+[2743.3s] actually want you to cram that fact."
+[2745.5s] And the person who has crammed a lot
+[2747.5s] more of those facts will generally be
+[2749.5s] better when it comes to Google because
+[2751.5s] they know uh how to how one fact adds up
+[2755.0s] with the other and so on to to come
+[2757.5s] together.
+[2760.0s] Yeah. As I go to the next question, I
+[2761.9s] have the advantage of holding the mic. I
+[2765.1s] I've been on with teams and in the
+[2767.4s] morning we learned about teamwork where
+[2769.4s] you discuss and come up with solutions
+[2771.8s] to an issue taking the rationale of one
+[2774.5s] person and another with AI what is the
+[2777.7s] place of teamwork and do you think it is
+[2781.6s] uh it would be very wise when we over
+[2784.7s] depend on AI at the expense of embracing
+[2789.7s] teamwork in uh getting solutions to
+[2792.5s] challenges as you answered the question
+[2794.6s] by Isaac. I think it's something that
+[2796.8s] cuts both ways. So I was giving my own
+[2799.0s] personal reflections where I mean it was
+[2802.6s] more like a coffee conversation. So it's
+[2804.5s] more like a team of one conversation
+[2806.1s] where you're bouncing ideas off of one
+[2807.7s] person. It could be two people within
+[2809.2s] the same thing where the engagement was
+[2813.0s] necessitated by the fact that I can't do
+[2815.9s] this alone. I need the people around me.
+[2819.0s] Does that mean that that's no longer
+[2821.0s] necessary? Actually no. all it has done
+[2824.3s] it means like the preliminary work that
+[2826.6s] I needed to do within a team setting and
+[2830.2s] here we're talking about engaged teams
+[2831.9s] right we're not talking about like the
+[2833.8s] team of bad people we're talking about
+[2835.4s] the good team where everybody's energy
+[2837.5s] feeds off of each other what it now just
+[2840.2s] simply does it means uh by the time the
+[2842.7s] team is coming together for these
+[2844.4s] conversations everybody is on a
+[2846.6s] different is on a different level and it
+[2849.5s] becomes magical so that's why I
+[2851.9s] mentioned like uh the the people or the
+[2854.6s] teams that are using AI become even
+[2857.2s] better and I hope that the people who
+[2859.4s] are in this hall are the ones who going
+[2861.3s] to be doing that.
+[2865.3s] Uh good afternoon. Good afternoon. My
+[2867.9s] name is Isaac. Thank you. Yeah, thanks
+[2872.1s] for that session. It was quite
+[2874.1s] insightful. Erh, I have a question
+[2877.4s] actually a risk factor because I believe
+[2880.0s] those AI tools are owned by people h and
+[2884.1s] we may be tempted to share so much data
+[2886.7s] in those tools. Uh how secure is
+[2891.3s] it? Are you on Facebook?
+[2895.8s] Yes. Yes. Are do you use an Android
+[2899.3s] phone? They know everything about you
+[2903.4s] already. and you also use
+[2906.5s] Gmail. I was worried about wait GPT will
+[2910.0s] know so much about me and then I
+[2911.8s] realized that Microsoft between
+[2913.4s] Microsoft, Google, Facebook, they
+[2916.2s] already know everything about me. So
+[2917.8s] sadly I think the age of privacy died in
+[2921.2s] 2004 or five when Facebook was founded.
+[2926.5s] Yeah, it is what it is.
+[2931.4s] Okay. Happy Sunday. Happy Sunday. My
+[2934.0s] name is Lawrence and I have a technical
+[2936.9s] question which it has been bothering me
+[2939.5s] for now here since I introduced myself
+[2942.2s] to AI and I'm going to derive the
+[2946.2s] question from the book of Daniel
+[2948.4s] 12:4 that says knowledge will be
+[2951.6s] increased. Now what is therefore the
+[2954.0s] role of the church or the position of
+[2956.6s] the church in the emergence of
+[2958.4s] artificial intelligence in the fourth
+[2961.0s] industrial revolution?
+[2964.6s] Yeah, there's a I think there's a verse
+[2966.6s] that uh comes to mind when
+[2969.1s] uh I think there's a parable about the
+[2972.0s] servant who was going to be fired and
+[2975.6s] then uh he went around asking the how
+[2978.3s] much do you owe? I don't know it was
+[2979.4s] 1,500 said okay write 800 how much do
+[2982.1s] you a,000 write 600 and so on and I
+[2986.4s] think like Jesus says like the sons of
+[2988.6s] the world are a lot
+[2991.8s] more yes that one and I think there's
+[2994.7s] also like a place where I don't know
+[2996.0s] whether it's within the same verse where
+[2997.5s] it says learn how to be as sly as no as
+[3001.6s] sly as foxes and as tame as
+[3005.8s] doves serpents yeah Okay, I sort of know
+[3010.6s] the vicinity of those verses but not the
+[3012.6s] the exact one. But I if you ask me I
+[3015.4s] I'll say like this tools become really
+[3018.1s] powerful for us. So I'll give you an an
+[3022.6s] example uh a few months ago uh when
+[3027.4s] running Bible study for the young
+[3029.4s] professionals that's with
+[3032.9s] uh yes at New Life. And then we we
+[3035.9s] realized that uh the the kind of
+[3038.7s] questions that were indicated in the
+[3041.9s] Bible study guide, that's a Bible study
+[3043.8s] lessons were not very were not very
+[3046.2s] engaging. And here's how I saw it cuz so
+[3049.7s] there will be let's say on the Sunday
+[3052.2s] part, they'll ask uh read verse this.
+[3057.1s] What does the verse say? Now the
+[3060.2s] challenge with such a question is for
+[3062.2s] the people who read it, it's too easy to
+[3064.6s] to reply. For the people who didn't read
+[3067.4s] it, they are lost. So we thought about
+[3070.6s] what if we could just like flip around
+[3073.8s] the lesson and actually ask engaging
+[3077.4s] life related questions uh around the
+[3081.8s] lesson. So let's say you're talking
+[3083.0s] about life on the let's say the the the
+[3085.0s] the place of hell or something like
+[3087.4s] that. So it could be uh what does the
+[3090.2s] story of Lazarus say? Uh okay read
+[3094.8s] verses I mean John chapter 11 and uh
+[3098.3s] figure out what does verse 5 say and
+[3100.4s] it's already said it. But the flip could
+[3102.6s] be your friend is going through a
+[3105.5s] difficult time. They've always been in
+[3107.7s] church for a while and they're asking
+[3109.7s] where is God? Now you see that's a
+[3112.1s] question that everybody in the room can
+[3114.6s] have an answer to including the person
+[3117.0s] who hadn't read the lesson but they have
+[3119.5s] the question but now you've also
+[3121.7s] intrigued them to go read the lesson.
+[3124.3s] Now coming up with those questions of
+[3128.4s] for like a really engaging lesson is
+[3131.1s] really difficult but with chat GPT turns
+[3134.4s] out you can do it in like four or five
+[3136.1s] hours. So the same tool that could be
+[3139.0s] used in other contexts for evil or for
+[3144.8s] non glorified uses, we as sons of the
+[3148.8s] light can also use it in really powerful
+[3151.5s] ways to engage with us. So I I think
+[3154.7s] like it's something that uh we can yes
+[3157.4s] the knowledge is increasing. It's it's
+[3160.0s] it's crazy the the amount of uh stuff
+[3163.4s] that we can now do with AI right now.
+[3166.3s] But that also means from a gospel
+[3168.2s] perspective, we can also do it. We can
+[3171.1s] also do a lot more right now than the
+[3173.6s] previous generation of evangelists,
+[3176.1s] missionaries and so on needed to do. Um
+[3179.8s] I think we will pause there. If you do
+[3182.4s] have questions, you may reach out to him
+[3184.8s] personally. There's one pending question
+[3187.0s] about his uh I think entrepreneurial
+[3189.4s] story. So I don't know whether you can
+[3191.1s] wrap it up in a few minutes, 5 minutes
+[3193.5s] or so. Yes, I'll I'll give a a much
+[3196.6s] shorter version because I I heard what
+[3198.7s] uh I wasn't here in the morning when to
+[3201.0s] was speaking, but I had a I mean he
+[3204.8s] mentioned a few things in his talk that
+[3206.8s] really resonate with uh my own
+[3209.1s] experience. Number one, I think he said
+[3211.3s] something to the extent love your job. I
+[3213.9s] think he said something to that, right?
+[3216.0s] And I think someone asked how can you
+[3217.8s] love your how can you love your job if
+[3220.3s] your job is not is not lovable?
+[3224.2s] And then I real at the time I'm just
+[3227.0s] looking for the best analogy to explain
+[3229.1s] this. And uh there's this book I was
+[3231.1s] reading recently about Christian service
+[3232.7s] and it was talking about um this guy who
+[3235.8s] was uh afraid of mad men, you know. So
+[3239.3s] he's walking at night, he's afraid of
+[3240.8s] mad men. Uh but so he's walking at night
+[3244.2s] and then there's a mad person who starts
+[3245.8s] running towards him and he's terrified
+[3248.0s] and then he starts running back and then
+[3249.9s] a leopard starts running after him. Then
+[3252.6s] it's like okay now the m running towards
+[3255.9s] the mad man now feels like a better idea
+[3257.9s] than running from the leopard. So
+[3262.0s] entrepreneurship is like running from
+[3263.7s] the leopard. If you think like
+[3266.2s] um having a job is bad try
+[3269.6s] entrepreneurship. That's why I listened
+[3271.5s] carefully. Okay. He gave a little bit of
+[3274.6s] I think at one point in the conversation
+[3276.1s] he
+[3276.9s] said have that job and love it. And then
+[3280.4s] at some point he sort of mentioned that
+[3282.1s] if you have a passion uh you can go try
+[3285.3s] out like uh an idea out
+[3289.5s] there. Yeah. So maybe that's the one
+[3292.1s] thing I'll say. Don't don't don't try
+[3293.9s] it. But if you really really really
+[3297.6s] really uh passionate so much that you'll
+[3300.5s] ignore this advice then go do it and uh
+[3305.4s] there'll be like a longer story around
+[3306.6s] it. So in my case, the very short uh
+[3310.0s] version of what it costs to build uh
+[3313.9s] Zeraki to be what it is, let's
+[3317.9s] see, my monthly salary right now is
+[3320.9s] still less than it was 10 years
+[3322.9s] ago. Just like Tom mentioned that you
+[3326.7s] the one who worries about everybody else
+[3328.7s] getting their salaries, that's what I
+[3330.6s] worry about every day. So even before
+[3332.8s] thinking about do I deserve or do I need
+[3335.4s] a raise I have to think about do we have
+[3337.4s] enough money for everybody else and if
+[3339.9s] we don't then you actually just like
+[3342.2s] shel that idea uh for us to grow into
+[3347.3s] the largest edtech in this space uh for
+[3350.6s] the first 6 years the office no for the
+[3353.1s] first four years 2015 to 2019 the office
+[3356.8s] was in my house which means there was no
+[3359.5s] privacy no whatever And then for the
+[3362.2s] next 3 years I was living in the office.
+[3364.2s] So for the last 10 years it's only in
+[3365.8s] the last two and a half years I think
+[3367.6s] now approaching three years that I've
+[3369.0s] been actually living in my own house and
+[3371.4s] it feels like freedom and this is having
+[3374.6s] had a 7-year career before that. So
+[3377.2s] there might be people who are fortunate
+[3379.5s] for the I mean for their journey to be
+[3382.0s] easier but underline that line fortunate
+[3386.6s] and you are likely not to be fortunate.
+[3389.6s] you're likely to go the long hard route.
+[3392.7s] That's why most people who've actually
+[3395.7s] run started a company will advise you to
+[3398.5s] love your job. So that if you go and do
+[3401.6s] it, you don't blame them for misguiding
+[3404.4s] you. But that said, if you're that
+[3406.9s] passionate, then in spite of all this
+[3409.7s] challenge, you'll find it at something
+[3411.8s] that's really fruitful to do. So if that
+[3415.4s] then happens to be you maybe in a
+[3417.1s] different forum we can have like a
+[3418.9s] longer conversation on okay so how do
+[3420.6s] you manage it how do you do it I hope
+[3423.3s] that didn't take five minutes okay I
+[3425.5s] just want to add one small uh question
+[3428.1s] maybe it will help um augment what
+[3429.8s] you've shared if I had to take you back
+[3431.9s] to I think you said 2015 that's when you
+[3433.9s] started how would you walk your
+[3436.4s] entrepreneurial journey differently now
+[3438.4s] that you know what you know now
+[3441.4s] okay first would you even be an
+[3442.6s] entrepreneur
+[3444.3s] Maybe I should start with that.
+[3447.8s] So, I'll take a little bit of a
+[3450.3s] spiritual put a spiritual response to
+[3452.6s] this cuz actually it's uh
+[3453.9s] entrepreneurship has ended up making
+[3456.9s] um me more spiritual. By the way, it's
+[3460.6s] statistical. There's a Harvard Business
+[3462.8s] School study that says uh entrepreneurs
+[3465.0s] are 15 to 20% more spiritual than
+[3468.9s] others. You could go Google it. But the
+[3471.6s] thing is um Paul talks a lot about
+[3474.1s] suffering and he says there's this verse
+[3476.2s] where he says um and we all rejoice in
+[3478.5s] our suffering cuz our suffering brings
+[3481.7s] perseverance perseverance character
+[3484.7s] character hope and hope does not
+[3486.5s] disappoint us. Now if it was possible
+[3489.7s] for God
+[3491.0s] to get us to that point of hope without
+[3494.6s] using suffering he surely would have
+[3497.0s] done it right. But no, he understands
+[3499.8s] like you actually have to walk through
+[3501.2s] this painful journey to actually get the
+[3504.2s] fruit which is like uh hope. So in a
+[3507.3s] similar way there's a lot of painful
+[3510.7s] things we I mean I've gone through and
+[3513.7s] all entrepreneurs will tell you that
+[3515.6s] they've gone
+[3516.8s] through but without those pain the
+[3520.6s] lessons that they end up learning will
+[3522.7s] not be learned. So there's
+[3525.7s] literally little that I can point to. I
+[3528.7s] mean I'll struggle to think of wait
+[3530.6s] which lesson was not important. I mean
+[3532.2s] I'll tell you this was painful that yes
+[3534.3s] that one also was very painful. But
+[3537.4s] every one of those painful moments is
+[3540.8s] the reason why I'm sitting here or I'm
+[3543.9s] standing here
