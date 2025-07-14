@@ -66,8 +66,6 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <link rel="icon" href="/sermon-transcripts/favicon.svg" type="image/svg+xml" />
-        <link rel="icon" href="/sermon-transcripts/favicon.ico" />
-        <link rel="apple-touch-icon" href="/sermon-transcripts/apple-touch-icon.png" />
       </head>
       <body className={inter.className}>
         <Header />

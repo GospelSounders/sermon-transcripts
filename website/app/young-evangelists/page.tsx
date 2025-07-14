@@ -42,7 +42,7 @@ export default function YoungEvangelistsPage() {
 
   useEffect(() => {
     // Load ministry data
-    fetch('/data/young-evangelists.json')
+    fetch('/sermon-transcripts/data/young-evangelists.json')
       .then(response => response.json())
       .then((data: MinistryData) => {
         setMinistryData(data)

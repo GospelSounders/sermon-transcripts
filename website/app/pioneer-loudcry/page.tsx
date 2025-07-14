@@ -42,7 +42,7 @@ export default function PioneerLoudcryPage() {
 
   useEffect(() => {
     // Load ministry data
-    fetch('/data/pioneer-loudcry.json')
+    fetch('/sermon-transcripts/data/pioneer-loudcry.json')
       .then(response => response.json())
       .then((data: MinistryData) => {
         setMinistryData(data)
