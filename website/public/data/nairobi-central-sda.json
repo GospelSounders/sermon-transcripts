@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "Nairobi Central SDA",
+    "description": "Central SDA church serving the heart of Nairobi with comprehensive worship services, music ministry, and biblical teachings.",
+    "folder": "nairobi-central-sda"
+  },
+  "sermons": [],
+  "stats": {
+    "total_sermons": 0,
+    "languages": [],
+    "topics": [],
+    "date_range": {
+      "earliest": "",
+      "latest": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "Newlife SDA Church Nairobi",
+    "description": "Major Seventh-day Adventist church in Nairobi with extensive sermon collection covering worship, doctrine, and community life.",
+    "folder": "newlife-sda"
+  },
+  "sermons": [],
+  "stats": {
+    "total_sermons": 0,
+    "languages": [],
+    "topics": [],
+    "date_range": {
+      "earliest": "",
+      "latest": ""
+    }
+  }
+}

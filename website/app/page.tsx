@@ -13,7 +13,7 @@ export default function Home() {
               <span className="text-blue-600">For Research & Analysis</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              A comprehensive collection of 3,200+ sermon transcripts from diverse Christian churches and denominations. 
+              A comprehensive collection of 119+ sermon transcripts from diverse Christian churches and denominations. 
               Enabling theological research, AI training, and academic study of contemporary Christian teaching.
             </p>
             <div className="flex gap-4 justify-center mb-12">
@@ -27,11 +27,11 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-3 gap-8 max-w-md mx-auto">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600">3,200+</div>
+                <div className="text-3xl font-bold text-blue-600">119+</div>
                 <div className="text-gray-600">Sermon Transcripts</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600">4+</div>
+                <div className="text-3xl font-bold text-blue-600">8+</div>
                 <div className="text-gray-600">Christian Churches</div>
               </div>
               <div className="text-center">
@@ -87,7 +87,7 @@ export default function Home() {
               <div className="flex justify-between items-start mb-4">
                 <h3 className="text-2xl font-bold text-gray-900">Newlife SDA Church Nairobi</h3>
                 <div className="flex gap-2">
-                  <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">2,200+ Sermons</span>
+                  <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">0 Sermons (Coming Soon)</span>
                   <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Largest Collection</span>
                 </div>
               </div>
@@ -114,7 +114,7 @@ export default function Home() {
             {[
               {
                 name: "Nairobi Central SDA",
-                count: "730+ Sermons",
+                count: "0 Sermons (Coming Soon)",
                 desc: "Central SDA church serving the heart of Nairobi with comprehensive worship services, music ministry, and biblical teachings.",
                 tags: ["Worship", "Music Ministry", "Biblical Teaching", "Urban Ministry"],
                 slug: "nairobi-central-sda",
@@ -122,7 +122,7 @@ export default function Home() {
               },
               {
                 name: "Pioneer Loudcry",
-                count: "197+ Sermons", 
+                count: "75 Sermons", 
                 desc: "Dedicated to prophetic truth and the three angels' messages, providing deep theological content in both English and Swahili.",
                 tags: ["Prophecy", "Three Angels", "End Times", "Biblical Truth"],
                 slug: "pioneer-loudcry",
@@ -130,7 +130,7 @@ export default function Home() {
               },
               {
                 name: "Young Evangelists Ministry",
-                count: "82+ Sermons",
+                count: "44 Sermons",
                 desc: "Committed to biblical education and spiritual growth, focusing on Adventist theology, health message, and true education principles.",
                 tags: ["Health Message", "True Education", "Biblical Studies", "Evangelism"],
                 slug: "young-evangelists", 

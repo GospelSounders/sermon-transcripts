@@ -38,6 +38,34 @@ CHANNELS = {
         "output_dir": "../output/nairobi-central-sda",
         "video_list_file": "nairobi_central_sda_videos.json",
         "progress_file": "nairobi_central_sda_progress.json"
+    },
+    "5": {
+        "name": "Motswedi SDA Church",
+        "url": "https://www.youtube.com/@motswediadventistchurch9178",
+        "output_dir": "../output/motswedi-sda",
+        "video_list_file": "motswedi_sda_videos.json",
+        "progress_file": "motswedi_sda_progress.json"
+    },
+    "6": {
+        "name": "Conroe SDA Church",
+        "url": "https://www.youtube.com/@ConroeSDAChurch",
+        "output_dir": "../output/conroe-sda",
+        "video_list_file": "conroe_sda_videos.json",
+        "progress_file": "conroe_sda_progress.json"
+    },
+    "7": {
+        "name": "Gaborone Central SDA",
+        "url": "https://www.youtube.com/@gaboronecentralsdachurch",
+        "output_dir": "../output/gaborone-central-sda",
+        "video_list_file": "gaborone_central_sda_videos.json",
+        "progress_file": "gaborone_central_sda_progress.json"
+    },
+    "8": {
+        "name": "Repentance And Holiness (Owuor)",
+        "url": "https://www.youtube.com/c/repentpreparetheway",
+        "output_dir": "../output/repentance-holiness",
+        "video_list_file": "repentance_holiness_videos.json",
+        "progress_file": "repentance_holiness_progress.json"
     }
 }
 
