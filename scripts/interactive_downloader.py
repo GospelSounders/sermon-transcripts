@@ -24,6 +24,20 @@ CHANNELS = {
         "output_dir": "../output/pioneer-loudcry",
         "video_list_file": "pioneer_loudcry_videos.json",
         "progress_file": "pioneer_loudcry_progress.json"
+    },
+    "3": {
+        "name": "Newlife SDA Church",
+        "url": "https://www.youtube.com/@newlifesdachurchnairobi",
+        "output_dir": "../output/newlife-sda",
+        "video_list_file": "newlife_sda_videos.json",
+        "progress_file": "newlife_sda_progress.json"
+    },
+    "4": {
+        "name": "Nairobi Central SDA",
+        "url": "https://www.youtube.com/@nairobicentralsda",
+        "output_dir": "../output/nairobi-central-sda",
+        "video_list_file": "nairobi_central_sda_videos.json",
+        "progress_file": "nairobi_central_sda_progress.json"
     }
 }
 
@@ -35,8 +49,8 @@ def display_menu():
     print("Available Channels:")
     for key, channel in CHANNELS.items():
         print(f"  {key}. {channel['name']}")
-    print("  3. Download from both channels")
-    print("  4. Show download status")
+    print("  5. Download from all channels")
+    print("  6. Show download status")
     print("  0. Exit")
     print("="*50)
 
@@ -292,18 +306,18 @@ def main():
     
     while True:
         display_menu()
-        choice = input("\nSelect an option (0-4): ").strip()
+        choice = input("\nSelect an option (0-6): ").strip()
         
         if choice == "0":
             print("👋 Goodbye!")
             break
-        elif choice in ["1", "2"]:
+        elif choice in ["1", "2", "3", "4"]:
             process_channel(CHANNELS[choice])
-        elif choice == "3":
-            print("\n🚀 Processing both channels...")
+        elif choice == "5":
+            print("\n🚀 Processing all channels...")
             for channel_config in CHANNELS.values():
                 process_channel(channel_config)
-        elif choice == "4":
+        elif choice == "6":
             show_status()
         else:
             print("❌ Invalid choice. Please try again.")
