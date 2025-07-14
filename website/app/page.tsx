@@ -31,7 +31,7 @@ export default function Home() {
                 <div className="text-gray-600">Sermon Transcripts</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600">9+</div>
+                <div className="text-3xl font-bold text-blue-600">4</div>
                 <div className="text-gray-600">Christian Churches</div>
               </div>
               <div className="text-center">
@@ -76,18 +76,18 @@ export default function Home() {
       <section className="py-20 bg-gray-50" id="ministries">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Dataset Sources</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Featured Ministries</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Current collection from Seventh-day Adventist churches, expanding to include diverse Christian denominations
+              Discover our top sermon collections from diverse Christian ministries
             </p>
           </div>
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-            {/* Featured Ministry */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-8">
+            {/* Featured Ministry 1 */}
             <div className="bg-white rounded-lg shadow-lg p-8 border-2 border-blue-200 flex flex-col h-full">
               <div className="flex justify-between items-start mb-4">
                 <h3 className="text-2xl font-bold text-gray-900">Newlife SDA Church Nairobi</h3>
                 <div className="flex gap-2">
-                  <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">0 Sermons (Coming Soon)</span>
+                  <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">120 Sermons</span>
                   <span className="bg-yellow-100 text-yellow-800 px-3 py-1 rounded-full text-sm font-medium">Largest Collection</span>
                 </div>
               </div>
@@ -110,78 +110,40 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Other Ministries */}
-            {[
-              {
-                name: "Nairobi Central SDA",
-                count: "0 Sermons (Coming Soon)",
-                desc: "Central SDA church serving the heart of Nairobi with comprehensive worship services, music ministry, and biblical teachings.",
-                tags: ["Worship", "Music Ministry", "Biblical Teaching", "Urban Ministry"],
-                slug: "nairobi-central-sda",
-                url: "https://www.youtube.com/@nairobicentralsda"
-              },
-              {
-                name: "Newlife SDA Church Nairobi",
-                count: "120 Sermons",
-                desc: "Major Seventh-day Adventist church in Nairobi with extensive sermon collection covering worship, doctrine, and community life.",
-                tags: ["Sabbath School", "Divine Service", "Youth Ministry", "Community"],
-                slug: "newlife-sda",
-                url: "https://www.youtube.com/@newlifesdachurchnairobi"
-              },
-              {
-                name: "Nairobi Central SDA",
-                count: "104 Sermons",
-                desc: "Central SDA church serving the heart of Nairobi with comprehensive worship services, music ministry, and biblical teachings.",
-                tags: ["Worship", "Music Ministry", "Biblical Teaching", "Urban Ministry"],
-                slug: "nairobi-central-sda",
-                url: "https://www.youtube.com/@nairobicentralsda"
-              },
-              {
-                name: "Pioneer Loudcry",
-                count: "75 Sermons", 
-                desc: "Dedicated to prophetic truth and the three angels' messages, providing deep theological content in both English and Swahili.",
-                tags: ["Prophecy", "Three Angels", "End Times", "Biblical Truth"],
-                slug: "pioneer-loudcry",
-                url: "https://www.youtube.com/@PTLPMTV"
-              },
-              {
-                name: "Young Evangelists Ministry",
-                count: "44 Sermons",
-                desc: "Committed to biblical education and spiritual growth, focusing on Adventist theology, health message, and true education principles.",
-                tags: ["Health Message", "True Education", "Biblical Studies", "Evangelism"],
-                slug: "young-evangelists", 
-                url: "https://www.youtube.com/@youngevangelistsministry8232"
-              },
-              {
-                name: "Nader Mansour",
-                count: "Coming Soon",
-                desc: "Biblical teaching and Christian discipleship content, focusing on practical Christian living and spiritual growth.",
-                tags: ["Biblical Teaching", "Discipleship", "Christian Living", "Spiritual Growth"],
-                slug: "nader-mansour",
-                url: "https://www.youtube.com/@NaderMansour"
-              }
-            ].map((ministry, index) => (
-              <div key={index} className="bg-white rounded-lg shadow p-6 flex flex-col h-full">
-                <div className="flex justify-between items-start mb-4">
-                  <h3 className="text-xl font-bold text-gray-900">{ministry.name}</h3>
-                  <span className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm font-medium">{ministry.count}</span>
-                </div>
-                <p className="text-gray-600 mb-4 flex-grow">{ministry.desc}</p>
-                <div className="flex flex-wrap gap-2 mb-4">
-                  {ministry.tags.map(tag => (
-                    <span key={tag} className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-sm">{tag}</span>
-                  ))}
-                </div>
-                <div className="flex gap-3 mt-auto">
-                  <Link href={`/${ministry.slug}`} className="bg-blue-600 text-white px-4 py-2 rounded font-medium hover:bg-blue-700 transition-colors text-sm">
-                    Browse Collection
-                  </Link>
-                  <a href={ministry.url} target="_blank" className="border border-gray-300 text-gray-700 px-4 py-2 rounded font-medium hover:bg-gray-50 transition-colors text-sm">
-                    Visit Channel
-                  </a>
+            {/* Featured Ministry 2 */}
+            <div className="bg-white rounded-lg shadow-lg p-8 border-2 border-green-200 flex flex-col h-full">
+              <div className="flex justify-between items-start mb-4">
+                <h3 className="text-2xl font-bold text-gray-900">Pioneer Loudcry</h3>
+                <div className="flex gap-2">
+                  <span className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">75 Sermons</span>
+                  <span className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm font-medium">Multilingual</span>
                 </div>
               </div>
-            ))}
+              <p className="text-gray-600 mb-6 flex-grow">
+                Dedicated to prophetic truth and the three angels&apos; messages, providing deep theological content 
+                in both English and Swahili. Focus on end-time prophecy and biblical truth.
+              </p>
+              <div className="flex flex-wrap gap-2 mb-6">
+                {["Prophecy", "Three Angels", "End Times", "Biblical Truth"].map(tag => (
+                  <span key={tag} className="bg-gray-100 text-gray-700 px-3 py-1 rounded-full text-sm">{tag}</span>
+                ))}
+              </div>
+              <div className="flex gap-3 mt-auto">
+                <Link href="/pioneer-loudcry" className="bg-blue-600 text-white px-6 py-2 rounded-lg font-medium hover:bg-blue-700 transition-colors">
+                  Browse Collection
+                </Link>
+                <a href="https://www.youtube.com/@PTLPMTV" target="_blank" className="border border-gray-300 text-gray-700 px-6 py-2 rounded-lg font-medium hover:bg-gray-50 transition-colors">
+                  Visit Channel
+                </a>
+              </div>
+            </div>
+          </div>
+          
+          <div className="text-center">
+            <Link href="/ministries" className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white px-8 py-3 rounded-lg font-semibold hover:from-blue-700 hover:to-purple-700 transition-all transform hover:scale-105">
+              <Building className="w-5 h-5" />
+              View All 4 Ministries
+            </Link>
           </div>
         </div>
       </section>
@@ -256,7 +218,7 @@ export default function Home() {
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Dataset Specifications</h3>
               <div className="grid grid-cols-1 md:grid-cols-4 gap-6 text-center">
                 <div>
-                  <div className="text-3xl font-bold text-blue-600">3,200+</div>
+                  <div className="text-3xl font-bold text-blue-600">343</div>
                   <div className="text-gray-600 text-sm">Transcribed Sermons</div>
                 </div>
                 <div>
@@ -264,17 +226,17 @@ export default function Home() {
                   <div className="text-gray-600 text-sm">Church Congregations</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-bold text-blue-600">500+</div>
-                  <div className="text-gray-600 text-sm">Hours of Content</div>
+                  <div className="text-3xl font-bold text-blue-600">2</div>
+                  <div className="text-gray-600 text-sm">Languages</div>
                 </div>
                 <div>
-                  <div className="text-3xl font-bold text-blue-600">2M+</div>
-                  <div className="text-gray-600 text-sm">Words Analyzed</div>
+                  <div className="text-3xl font-bold text-blue-600">100%</div>
+                  <div className="text-gray-600 text-sm">Free Access</div>
                 </div>
               </div>
               <p className="text-gray-600 mt-6 text-sm">
                 <strong>Format:</strong> Plain text transcripts • <strong>Language:</strong> English & Swahili • 
-                <strong>License:</strong> Educational/Research Use • <strong>Updated:</strong> Continuously
+                <strong>License:</strong> Educational/Research Use • <strong>Effective:</strong> July 14, 2025
               </p>
               <div className="mt-6 p-4 bg-blue-50 rounded-lg">
                 <p className="text-blue-800 text-sm">
