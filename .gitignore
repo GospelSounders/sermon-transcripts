@@ -67,9 +67,6 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-young_evangelists_transcripts/
-pioneer_loudcry_transcripts/
-test_transcripts/
 *_progress.json
 *_videos.json
 download_progress.json
