@@ -1,17 +1,23 @@
 {
-  "total_sermons": 119,
+  "total_sermons": 343,
   "total_ministries": 4,
   "languages": [
     "English",
     "Swahili"
   ],
   "topics": [
+    "Biblical Studies",
     "Biblical Teaching",
     "Community",
+    "Discipleship",
     "End Times",
     "Evangelism",
     "Health Message",
+    "Holiness",
+    "Prayer",
     "Prophecy",
+    "Repentance",
+    "Revival",
     "Sabbath",
     "Stewardship",
     "Three Angels",
@@ -19,7 +25,7 @@
     "Worship",
     "Youth Ministry"
   ],
-  "generated_at": "2025-07-14T17:21:08.737039",
+  "generated_at": "2025-07-14T18:54:59.970865",
   "ministries": {
     "young-evangelists": {
       "name": "Young Evangelists Ministry",
@@ -31,11 +37,11 @@
     },
     "newlife-sda": {
       "name": "Newlife SDA Church Nairobi",
-      "sermon_count": 0
+      "sermon_count": 120
     },
     "nairobi-central-sda": {
       "name": "Nairobi Central SDA",
-      "sermon_count": 0
+      "sermon_count": 104
     }
   }
 }

@@ -1,8 +1,9 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { Search, Download, Calendar, Clock, ExternalLink } from 'lucide-react'
+import { Search, Download, Calendar, Clock, ExternalLink, Eye } from 'lucide-react'
 import Link from 'next/link'
+import TranscriptReader from '../components/TranscriptReader'
 
 interface Sermon {
   id: string
@@ -15,6 +16,7 @@ interface Sermon {
   topics: string[]
   transcript_available: boolean
   language: string
+  filename: string
 }
 
 interface MinistryData {
@@ -36,10 +38,11 @@ export default function YoungEvangelistsPage() {
   const [searchQuery, setSearchQuery] = useState('')
   const [selectedTopic, setSelectedTopic] = useState('all')
   const [isLoading, setIsLoading] = useState(true)
+  const [selectedTranscript, setSelectedTranscript] = useState<{ ministry: string; filename: string } | null>(null)
 
   useEffect(() => {
     // Load ministry data
-    fetch('/sermon-transcripts/data/young-evangelists.json')
+    fetch('/data/young-evangelists.json')
       .then(response => response.json())
       .then((data: MinistryData) => {
         setMinistryData(data)
@@ -268,8 +271,33 @@ export default function YoungEvangelistsPage() {
                         YouTube
                       </a>
                       <button 
-                        className="flex items-center gap-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors disabled:opacity-50 text-sm"
-                        disabled
+                        onClick={() => setSelectedTranscript({ ministry: 'young-evangelists', filename: sermon.filename })}
+                        className="flex items-center gap-2 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors text-sm"
+                      >
+                        <Eye className="w-4 h-4" />
+                        Read
+                      </button>
+                      <button 
+                        onClick={async () => {
+                          try {
+                            const response = await fetch(`/api/transcript/young-evangelists/${sermon.filename}`)
+                            if (response.ok) {
+                              const data = await response.json()
+                              const blob = new Blob([`${data.title}\n\n${data.fullTranscript}`], { type: 'text/plain' })
+                              const url = URL.createObjectURL(blob)
+                              const a = document.createElement('a')
+                              a.href = url
+                              a.download = `${sermon.title}.txt`
+                              document.body.appendChild(a)
+                              a.click()
+                              document.body.removeChild(a)
+                              URL.revokeObjectURL(url)
+                            }
+                          } catch (error) {
+                            console.error('Download failed:', error)
+                          }
+                        }}
+                        className="flex items-center gap-2 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors text-sm"
                       >
                         <Download className="w-4 h-4" />
                         Download
@@ -332,6 +360,15 @@ export default function YoungEvangelistsPage() {
           </div>
         </div>
       </section>
+
+      {/* Transcript Reader Modal */}
+      {selectedTranscript && (
+        <TranscriptReader
+          ministry={selectedTranscript.ministry}
+          filename={selectedTranscript.filename}
+          onClose={() => setSelectedTranscript(null)}
+        />
+      )}
     </div>
   )
 }

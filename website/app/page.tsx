@@ -13,7 +13,7 @@ export default function Home() {
               <span className="text-blue-600">For Research & Analysis</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              A comprehensive collection of 119+ sermon transcripts from diverse Christian churches and denominations. 
+              A comprehensive collection of 343+ sermon transcripts from diverse Christian churches and denominations. 
               Enabling theological research, AI training, and academic study of contemporary Christian teaching.
             </p>
             <div className="flex gap-4 justify-center mb-12">
@@ -27,7 +27,7 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-3 gap-8 max-w-md mx-auto">
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600">119+</div>
+                <div className="text-3xl font-bold text-blue-600">343+</div>
                 <div className="text-gray-600">Sermon Transcripts</div>
               </div>
               <div className="text-center">
@@ -115,6 +115,22 @@ export default function Home() {
               {
                 name: "Nairobi Central SDA",
                 count: "0 Sermons (Coming Soon)",
+                desc: "Central SDA church serving the heart of Nairobi with comprehensive worship services, music ministry, and biblical teachings.",
+                tags: ["Worship", "Music Ministry", "Biblical Teaching", "Urban Ministry"],
+                slug: "nairobi-central-sda",
+                url: "https://www.youtube.com/@nairobicentralsda"
+              },
+              {
+                name: "Newlife SDA Church Nairobi",
+                count: "120 Sermons",
+                desc: "Major Seventh-day Adventist church in Nairobi with extensive sermon collection covering worship, doctrine, and community life.",
+                tags: ["Sabbath School", "Divine Service", "Youth Ministry", "Community"],
+                slug: "newlife-sda",
+                url: "https://www.youtube.com/@newlifesdachurchnairobi"
+              },
+              {
+                name: "Nairobi Central SDA",
+                count: "104 Sermons",
                 desc: "Central SDA church serving the heart of Nairobi with comprehensive worship services, music ministry, and biblical teachings.",
                 tags: ["Worship", "Music Ministry", "Biblical Teaching", "Urban Ministry"],
                 slug: "nairobi-central-sda",

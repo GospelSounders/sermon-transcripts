@@ -8,7 +8,53 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Christian Sermon Dataset - Research & Analysis Platform",
-  description: "Comprehensive dataset of 3,200+ Christian sermon transcripts from multiple denominations for theological research, AI training, and academic study",
+  description: "Comprehensive dataset of 343+ Christian sermon transcripts from multiple denominations for theological research, AI training, and academic study",
+  keywords: "Christian sermons, theology, research, dataset, AI training, academic study, biblical analysis, denominational studies",
+  authors: [{ name: "Gospel Sounders" }],
+  creator: "Gospel Sounders",
+  publisher: "Gospel Sounders",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  metadataBase: new URL('https://gospelsounders.github.io'),
+  alternates: {
+    canonical: '/sermon-transcripts',
+  },
+  openGraph: {
+    title: "Christian Sermon Dataset - Research & Analysis Platform",
+    description: "Comprehensive dataset of 343+ Christian sermon transcripts from multiple denominations for theological research, AI training, and academic study",
+    url: 'https://gospelsounders.github.io/sermon-transcripts',
+    siteName: 'Christian Sermon Dataset',
+    locale: 'en_US',
+    type: 'website',
+    images: [
+      {
+        url: '/sermon-transcripts/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Christian Sermon Dataset - Research & Analysis Platform',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: "Christian Sermon Dataset - Research & Analysis Platform",
+    description: "Comprehensive dataset of 343+ Christian sermon transcripts from multiple denominations for theological research, AI training, and academic study",
+    images: ['/sermon-transcripts/og-image.png'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({
@@ -18,6 +64,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/sermon-transcripts/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/sermon-transcripts/favicon.ico" />
+        <link rel="apple-touch-icon" href="/sermon-transcripts/apple-touch-icon.png" />
+      </head>
       <body className={inter.className}>
         <Header />
         <main>{children}</main>
@@ -33,16 +84,16 @@ export default function RootLayout({
                 <h4 className="text-xl font-bold mb-4">Quick Links</h4>
                 <ul className="space-y-2">
                   <li><Link href="/search" className="text-gray-300 hover:text-white transition-colors">Search Sermons</Link></li>
-                  <li><Link href="/young-evangelists" className="text-gray-300 hover:text-white transition-colors">Young Evangelists</Link></li>
-                  <li><Link href="/pioneer-loudcry" className="text-gray-300 hover:text-white transition-colors">Pioneer Loudcry</Link></li>
+                  <li><Link href="/ministries" className="text-gray-300 hover:text-white transition-colors">Browse All Ministries</Link></li>
+                  <li><Link href="/about" className="text-gray-300 hover:text-white transition-colors">About the Dataset</Link></li>
                 </ul>
               </div>
               <div>
                 <h4 className="text-xl font-bold mb-4">Legal</h4>
                 <ul className="space-y-2">
-                  <li><a href="#legal" className="text-gray-300 hover:text-white transition-colors">Fair Use</a></li>
-                  <li><a href="#legal" className="text-gray-300 hover:text-white transition-colors">Attribution</a></li>
-                  <li><a href="#legal" className="text-gray-300 hover:text-white transition-colors">Copyright</a></li>
+                  <li><Link href="/fair-use" className="text-gray-300 hover:text-white transition-colors">Fair Use Policy</Link></li>
+                  <li><Link href="/privacy" className="text-gray-300 hover:text-white transition-colors">Privacy Policy</Link></li>
+                  <li><Link href="/terms" className="text-gray-300 hover:text-white transition-colors">Terms of Service</Link></li>
                 </ul>
               </div>
             </div>
