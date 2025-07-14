@@ -57,15 +57,15 @@ async function updateStatistics() {
         // This would typically fetch from an API or generated JSON
         // For now, we'll use static data
         const stats = {
-            totalTranscripts: 279,
-            ministries: 2,
+            totalTranscripts: 3200,
+            ministries: 4,
             lastUpdated: new Date().toLocaleDateString()
         };
         
         // Update stat numbers if elements exist
         const statNumbers = document.querySelectorAll('.stat-number');
         if (statNumbers.length >= 3) {
-            statNumbers[0].textContent = `${stats.totalTranscripts}+`;
+            statNumbers[0].textContent = `3,200+`;
             statNumbers[1].textContent = stats.ministries;
             statNumbers[2].textContent = '100%';
         }
