@@ -9,11 +9,11 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl font-bold text-gray-900 mb-6">
-              SDA Sermon Dataset <br />
+              Christian Sermon Dataset <br />
               <span className="text-blue-600">For Research & Analysis</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-              A comprehensive collection of 3,200+ sermon transcripts from Seventh-day Adventist churches. 
+              A comprehensive collection of 3,200+ sermon transcripts from diverse Christian churches and denominations. 
               Enabling theological research, AI training, and academic study of contemporary Christian teaching.
             </p>
             <div className="flex gap-4 justify-center mb-12">
@@ -31,8 +31,8 @@ export default function Home() {
                 <div className="text-gray-600">Sermon Transcripts</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600">4</div>
-                <div className="text-gray-600">SDA Churches</div>
+                <div className="text-3xl font-bold text-blue-600">4+</div>
+                <div className="text-gray-600">Christian Churches</div>
               </div>
               <div className="text-center">
                 <div className="text-3xl font-bold text-blue-600">100%</div>
@@ -49,8 +49,8 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Dataset Applications</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Enabling comprehensive research into Seventh-day Adventist theological patterns, 
-              teaching evolution, and contemporary Christian discourse
+              Enabling comprehensive research into Christian theological patterns, 
+              denominational differences, and contemporary Christian discourse across multiple traditions
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -76,9 +76,9 @@ export default function Home() {
       <section className="py-20 bg-gray-50" id="ministries">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">Featured Ministries</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">Dataset Sources</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Explore sermon collections from these dedicated Christian ministries
+              Current collection from Seventh-day Adventist churches, expanding to include diverse Christian denominations
             </p>
           </div>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
@@ -92,8 +92,8 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-600 mb-6">
-                Major SDA church in Nairobi with extensive sermon collection covering all aspects of 
-                Seventh-day Adventist worship, doctrine, and community life.
+                Major Seventh-day Adventist church in Nairobi with extensive sermon collection covering worship, 
+                doctrine, and community life. Representative sample of contemporary SDA teaching.
               </p>
               <div className="flex flex-wrap gap-2 mb-6">
                 {["Sabbath School", "Divine Service", "Youth Ministry", "Community"].map(tag => (
@@ -168,8 +168,8 @@ export default function Home() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Research Applications</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              This sermon dataset enables comprehensive analysis of Seventh-day Adventist teaching patterns, 
-              doctrinal evolution, and ministerial practices across multiple congregations and time periods.
+              This sermon dataset enables comprehensive analysis of Christian teaching patterns, 
+              doctrinal evolution, and ministerial practices across multiple denominations, congregations and time periods.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -177,7 +177,7 @@ export default function Home() {
               {
                 icon: "📊",
                 title: "Doctrinal Analysis", 
-                desc: "Track theological emphasis changes over time. Which doctrines receive more attention? How has biblical interpretation evolved within SDA churches?"
+                desc: "Track theological emphasis changes over time. Which doctrines receive more attention? How has biblical interpretation evolved within different denominations?"
               },
               {
                 icon: "🎤",
@@ -202,12 +202,12 @@ export default function Home() {
               {
                 icon: "🌟",
                 title: "Innovation Detection",
-                desc: "Discover new teaching methods, fresh biblical insights, and contemporary applications of traditional SDA teachings."
+                desc: "Discover new teaching methods, fresh biblical insights, and contemporary applications of traditional Christian teachings across denominations."
               },
               {
                 icon: "📚",
                 title: "Comparative Studies",
-                desc: "Compare urban vs rural congregations, different cultural contexts, and generational differences in ministry approaches."
+                desc: "Compare denominational differences, urban vs rural congregations, cultural contexts, and generational differences in ministry approaches."
               },
               {
                 icon: "🤖",
@@ -252,6 +252,12 @@ export default function Home() {
                 <strong>Format:</strong> Plain text transcripts • <strong>Language:</strong> English & Swahili • 
                 <strong>License:</strong> Educational/Research Use • <strong>Updated:</strong> Continuously
               </p>
+              <div className="mt-6 p-4 bg-blue-50 rounded-lg">
+                <p className="text-blue-800 text-sm">
+                  <strong>Expanding Soon:</strong> Adding Catholic, Protestant, Pentecostal, Orthodox, and other 
+                  Christian denominations to create the most comprehensive multi-denominational sermon dataset available.
+                </p>
+              </div>
             </div>
           </div>
         </div>
