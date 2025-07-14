@@ -145,7 +145,7 @@ export default function AboutPage() {
                 <div className="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                   <span className="text-2xl font-bold text-blue-600">BO</span>
                 </div>
-                <h3 className="text-xl font-semibold text-gray-900 mb-2">Brian Onang'o</h3>
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">Brian Onang&apos;o</h3>
                 <p className="text-blue-600 font-medium mb-3">Lead Developer & Data Architect</p>
                 <p className="text-gray-600 text-sm mb-4">
                   Responsible for dataset architecture, transcript processing pipelines, and research platform development.

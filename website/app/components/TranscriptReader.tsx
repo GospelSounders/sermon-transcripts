@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { X, Download, ExternalLink, Clock, User, Calendar } from 'lucide-react'
+import { X, Download, ExternalLink, Clock, User } from 'lucide-react'
 
 interface TranscriptData {
   title: string
@@ -27,11 +27,71 @@ export default function TranscriptReader({ ministry, filename, onClose }: Transc
   useEffect(() => {
     async function fetchTranscript() {
       try {
-        const response = await fetch(`/api/transcript/${ministry}/${filename}`)
+        const response = await fetch(`/sermon-transcripts/output/${ministry}/${filename}`)
         if (!response.ok) {
           throw new Error('Failed to fetch transcript')
         }
-        const data = await response.json()
+        const fileContent = await response.text()
+        
+        // Parse the transcript file
+        const lines = fileContent.split('\n')
+        let title = ''
+        let videoId = ''
+        let url = ''
+        let fullTranscript = ''
+        let timestampedTranscript = ''
+        
+        // Parse metadata
+        for (let i = 0; i < Math.min(lines.length, 10); i++) {
+          const line = lines[i]
+          if (line.startsWith('Title:')) {
+            title = line.replace('Title:', '').trim()
+          } else if (line.startsWith('Video ID:')) {
+            videoId = line.replace('Video ID:', '').trim()
+          } else if (line.startsWith('URL:')) {
+            url = line.replace('URL:', '').trim()
+          }
+        }
+        
+        // Parse transcript sections
+        let inFullTranscript = false
+        let inTimestampedTranscript = false
+        
+        for (const line of lines) {
+          if (line.trim() === 'FULL TRANSCRIPT:') {
+            inFullTranscript = true
+            inTimestampedTranscript = false
+            continue
+          } else if (line.trim() === 'TIMESTAMPED TRANSCRIPT:') {
+            inFullTranscript = false
+            inTimestampedTranscript = true
+            continue
+          } else if (line.trim().startsWith('=')) {
+            inFullTranscript = false
+            inTimestampedTranscript = false
+            continue
+          }
+          
+          if (inFullTranscript) {
+            fullTranscript += line + '\n'
+          } else if (inTimestampedTranscript) {
+            timestampedTranscript += line + '\n'
+          }
+        }
+        
+        // Clean up transcripts
+        fullTranscript = fullTranscript.trim()
+        timestampedTranscript = timestampedTranscript.trim()
+        
+        const data = {
+          title: title || filename.replace('.txt', ''),
+          videoId: videoId || '',
+          url: url || '',
+          fullTranscript,
+          timestampedTranscript,
+          filename
+        }
+        
         setTranscript(data)
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Unknown error')

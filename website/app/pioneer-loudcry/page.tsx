@@ -280,14 +280,14 @@ export default function PioneerLoudcryPage() {
                       <button 
                         onClick={async () => {
                           try {
-                            const response = await fetch(`/api/transcript/pioneer-loudcry/${sermon.filename}`)
+                            const response = await fetch(`/sermon-transcripts/output/pioneer-loudcry/${sermon.filename}`)
                             if (response.ok) {
-                              const data = await response.json()
-                              const blob = new Blob([`${data.title}\n\n${data.fullTranscript}`], { type: 'text/plain' })
+                              const fileContent = await response.text()
+                              const blob = new Blob([fileContent], { type: 'text/plain' })
                               const url = URL.createObjectURL(blob)
                               const a = document.createElement('a')
                               a.href = url
-                              a.download = `${sermon.title}.txt`
+                              a.download = sermon.filename
                               document.body.appendChild(a)
                               a.click()
                               document.body.removeChild(a)

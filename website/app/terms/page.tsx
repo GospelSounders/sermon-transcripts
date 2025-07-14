@@ -41,7 +41,7 @@ export default function TermsOfServicePage() {
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3">User Responsibilities</h3>
                 <p className="text-gray-600">
-                  Users must comply with fair use guidelines and respect content creators' rights.
+                  Users must comply with fair use guidelines and respect content creators&apos; rights.
                 </p>
               </div>
               <div className="text-center">
@@ -50,7 +50,7 @@ export default function TermsOfServicePage() {
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3">Limitations</h3>
                 <p className="text-gray-600">
-                  Service provided "as is" with no commercial warranties or guarantees.
+                  Service provided &quot;as is&quot; with no commercial warranties or guarantees.
                 </p>
               </div>
             </div>
@@ -147,7 +147,7 @@ export default function TermsOfServicePage() {
                 </div>
 
                 <div className="bg-white border border-gray-200 rounded-lg p-6">
-                  <h3 className="text-xl font-bold text-gray-900 mb-3">Content Creators' Rights</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-3">Content Creators&apos; Rights</h3>
                   <ul className="list-disc list-inside text-gray-600 space-y-2">
                     <li>Original sermon content and teachings</li>
                     <li>Video and audio recordings</li>
@@ -159,7 +159,7 @@ export default function TermsOfServicePage() {
 
               <h2 className="text-3xl font-bold text-gray-900 mb-6">6. Content Accuracy and Disclaimers</h2>
               <div className="bg-gray-50 rounded-lg p-6 mb-8">
-                <h3 className="text-xl font-bold text-gray-900 mb-4">Service Provided "As Is"</h3>
+                <h3 className="text-xl font-bold text-gray-900 mb-4">Service Provided &quot;As Is&quot;</h3>
                 <p className="text-gray-600 mb-4">
                   The Christian Sermon Dataset is provided for educational and research purposes. We make no warranties regarding:
                 </p>
@@ -227,7 +227,7 @@ export default function TermsOfServicePage() {
                 </p>
                 <ul className="text-gray-600 space-y-2">
                   <li><strong>Email:</strong> <a href="mailto:legal@gospelsounders.org" className="text-blue-600 hover:underline">legal@gospelsounders.org</a></li>
-                  <li><strong>Subject Line:</strong> "Terms of Service Inquiry"</li>
+                  <li><strong>Subject Line:</strong> &quot;Terms of Service Inquiry&quot;</li>
                   <li><strong>Website:</strong> <a href="https://gospelsounders.github.io/sermon-transcripts" className="text-blue-600 hover:underline">Christian Sermon Dataset</a></li>
                 </ul>
               </div>
@@ -252,7 +252,7 @@ export default function TermsOfServicePage() {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">Questions About These Terms?</h2>
             <p className="text-xl text-gray-600 mb-8">
-              We're here to help clarify any questions about using our platform and services.
+              We&apos;re here to help clarify any questions about using our platform and services.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a 

@@ -41,7 +41,7 @@ export default function PrivacyPolicyPage() {
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-3">Transparent Use</h3>
                 <p className="text-gray-600">
-                  We are transparent about what data we collect and how it's used to improve our services.
+                  We are transparent about what data we collect and how it&apos;s used to improve our services.
                 </p>
               </div>
               <div className="text-center">
@@ -59,7 +59,7 @@ export default function PrivacyPolicyPage() {
               <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-8">
                 <h3 className="text-xl font-bold text-blue-900 mb-4">Last Updated: January 15, 2025</h3>
                 <p className="text-blue-800">
-                  This Privacy Policy explains how Gospel Sounders ("we," "us," or "our") collects, uses, and protects information when you use the Christian Sermon Dataset website and services.
+                  This Privacy Policy explains how Gospel Sounders (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) collects, uses, and protects information when you use the Christian Sermon Dataset website and services.
                 </p>
               </div>
 
@@ -203,7 +203,7 @@ export default function PrivacyPolicyPage() {
                 </p>
               </div>
 
-              <h2 className="text-3xl font-bold text-gray-900 mb-6">Children's Privacy</h2>
+              <h2 className="text-3xl font-bold text-gray-900 mb-6">Children&apos;s Privacy</h2>
               
               <p className="text-gray-600 mb-6">
                 Our service is not designed for or directed at children under 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will delete it immediately.
@@ -223,7 +223,7 @@ export default function PrivacyPolicyPage() {
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Changes to This Policy</h2>
               
               <p className="text-gray-600 mb-6">
-                We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this policy periodically.
+                We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated &quot;Last Updated&quot; date. We encourage you to review this policy periodically.
               </p>
 
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Contact Information</h2>
@@ -234,7 +234,7 @@ export default function PrivacyPolicyPage() {
                 </p>
                 <ul className="text-gray-600 space-y-2">
                   <li><strong>Email:</strong> <a href="mailto:privacy@gospelsounders.org" className="text-blue-600 hover:underline">privacy@gospelsounders.org</a></li>
-                  <li><strong>Subject Line:</strong> "Privacy Policy Inquiry"</li>
+                  <li><strong>Subject Line:</strong> &quot;Privacy Policy Inquiry&quot;</li>
                   <li><strong>Response Time:</strong> We aim to respond within 48 hours</li>
                 </ul>
               </div>
