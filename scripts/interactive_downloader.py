@@ -14,14 +14,14 @@ CHANNELS = {
     "1": {
         "name": "Young Evangelists",
         "url": "https://www.youtube.com/@youngevangelistsministry8232",
-        "output_dir": "young_evangelists_transcripts",
+        "output_dir": "../output/young-evangelists",
         "video_list_file": "young_evangelists_videos.json",
         "progress_file": "young_evangelists_progress.json"
     },
     "2": {
         "name": "Pioneer Loudcry",
         "url": "https://www.youtube.com/@PTLPMTV",
-        "output_dir": "pioneer_loudcry_transcripts",
+        "output_dir": "../output/pioneer-loudcry",
         "video_list_file": "pioneer_loudcry_videos.json",
         "progress_file": "pioneer_loudcry_progress.json"
     }

@@ -94,7 +94,7 @@ def load_progress(progress_file):
 
 def main():
     video_list_file = "video_list.json"
-    output_dir = "young_evangelists_transcripts"
+    output_dir = "../output/young-evangelists"
     progress_file = "download_progress.json"
     
     if not os.path.exists(video_list_file):

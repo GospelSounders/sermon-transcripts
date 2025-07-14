@@ -66,11 +66,14 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-*_progress.json
-*_videos.json
-download_progress.json
+# Project specific - Generated files
+scripts/*_progress.json
+scripts/*_videos.json
+scripts/download_progress.json
 *.log
+
+# Output directories (transcripts will be committed)
+# output/ folders are intentionally tracked to serve transcripts via GitHub Pages
 
 # Temporary files
 *.tmp

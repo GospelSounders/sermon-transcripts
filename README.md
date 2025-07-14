@@ -1,199 +1,173 @@
-# YouTube Transcript Downloader - Multi-Channel Edition
+# Gospel Sounders Sermon Transcript Collection
 
-This repository contains scripts to download transcripts from multiple YouTube channels:
-- **Young Evangelists Ministry**: https://www.youtube.com/@youngevangelistsministry8232
-- **Pioneer Loudcry**: https://www.youtube.com/@PTLPMTV
+**Making Christian sermons searchable and accessible in text format for research and study**
 
-## Quick Start
+This repository contains transcripts from multiple Christian YouTube channels, converted from video to searchable text format to facilitate theological research, sermon study, and spiritual growth.
 
-### 1. Install Dependencies
-```bash
-pip install -r requirements.txt
+## 🎯 Mission Statement
+
+**Why Sermon Transcripts Matter:**
+- **Accessibility**: Enable text-based access to sermon content for the hearing impaired
+- **Research**: Allow theological students and researchers to search across multiple sermons
+- **Study**: Help believers dive deeper into specific topics across different messages
+- **Preservation**: Create a searchable archive of important Christian teachings
+- **Global Access**: Make sermons available to those with limited internet bandwidth
+
+## 📊 Current Collection
+
+### Available Channels
+- **[Young Evangelists Ministry](https://www.youtube.com/@youngevangelistsministry8232)** - 82+ video transcripts
+- **[Pioneer Loudcry](https://www.youtube.com/@PTLPMTV)** - 197+ video transcripts
+
+### Statistics
+- **Total Transcripts**: 279+ sermons and teachings
+- **Languages**: English, Swahili
+- **Topics**: Adventist theology, prophecy, health, education, biblical studies
+- **Format**: Full text with timestamps
+
+## 🗂️ Repository Structure
+
+```
+📁 sermon-transcripts/
+├── 📄 README.md              # This file
+├── 📄 requirements.txt       # Python dependencies
+├── 📁 scripts/              # Download and processing tools
+│   ├── interactive_downloader.py    # Multi-channel downloader
+│   ├── download_transcripts_batch.py # Single channel downloader
+│   └── ...                 # Other utility scripts
+├── 📁 output/              # Transcript collections
+│   ├── 📁 young-evangelists/       # Young Evangelists Ministry transcripts
+│   └── 📁 pioneer-loudcry/         # Pioneer Loudcry transcripts
+└── 📁 .github/workflows/    # GitHub Pages automation
 ```
 
-### 2. Run Interactive Downloader
+## 🔍 How to Use This Collection
+
+### 1. Browse Transcripts
+- Navigate to `output/young-evangelists/` or `output/pioneer-loudcry/`
+- Each `.txt` file contains a full sermon transcript
+- Filenames follow the pattern: `{SERMON_TITLE}_{VIDEO_ID}.txt`
+
+### 2. Search Content
+**Current Options (Manual):**
+- Use GitHub's search feature to find keywords across all transcripts
+- Download specific files and search locally
+- Browse by filename to find topics of interest
+
+**Future Options (Planned):**
+- 🚧 **Website Search**: Full-text search across all sermons
+- 🚧 **Topic Indexing**: Browse sermons by biblical books, themes
+- 🚧 **Ministry Filtering**: Filter by specific preachers or channels
+- 🚧 **Date Sorting**: Browse chronologically
+
+### 3. User Journey Examples
+
+#### 🔍 **Researcher**: "I want to study what these ministries teach about prophecy"
+1. **Current**: Search GitHub files for "prophecy" keyword
+2. **Future**: Use website search with topic filter for "Prophecy"
+
+#### ⛪ **Pastor**: "Looking for sermon ideas on health message"
+1. **Current**: Browse `output/` folders for health-related filenames
+2. **Future**: Filter by topic "Health" and see all relevant sermons
+
+#### 📚 **Student**: "Need sermons about Daniel's prophecies"
+1. **Current**: Search files for "Daniel" across both ministry folders
+2. **Future**: Bible book filter + keyword search
+
+## 🛠️ Technical Information
+
+### For Contributors
+
+#### Adding New Transcripts
 ```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Run interactive downloader
+cd scripts/
 python interactive_downloader.py
+
+# 3. Follow menu prompts to select channels
 ```
 
-**NEW:** The interactive script supports multiple channels:
-- **Young Evangelists Ministry** (@youngevangelistsministry8232)
-- **Pioneer Loudcry** (@PTLPMTV)
+#### Repository Maintenance
+- Transcripts are automatically organized by ministry
+- Progress files track download status
+- Resume capability prevents duplicate downloads
 
-### 3. Alternative: Single Channel Download
-```bash
-python download_transcripts_batch.py
-```
+### For Developers
 
-## Current Status
+#### Planned Website Features
+- **Search Engine**: Full-text search across all transcripts
+- **Ministry Pages**: Dedicated pages for each channel
+- **Topic Taxonomy**: Categorization by biblical themes
+- **Responsive Design**: Mobile-friendly interface
+- **Direct Links**: Deep links to specific sermon sections
 
-✅ **Completed:**
-- Found 82 videos on the channel
-- Created video list extraction script
-- Built transcript downloading scripts with rate limiting
-- Implemented progress tracking and resume capability
+## 🌐 Website (Coming Soon)
 
-⚠️ **Current Issue:**
-YouTube is blocking requests due to IP-based rate limiting. This is common when running from cloud servers or after making too many requests.
+**Live Site**: [gospelsounders.github.io/sermon-transcripts](https://gospelsounders.github.io/sermon-transcripts)
 
-## Files Overview
+### Planned User Features
+- 🔍 **Smart Search**: Find sermons by keyword, topic, or Bible verse
+- 📋 **Browse by Ministry**: Explore content from specific channels
+- 📅 **Chronological View**: Browse sermons by date
+- 🏷️ **Topic Tags**: Discover related content
+- 📱 **Mobile Optimized**: Access on any device
 
-### Main Scripts
-1. **`interactive_downloader.py`** - **NEW!** Interactive multi-channel transcript downloader
-2. **`download_transcripts_batch.py`** - Single channel batch downloader (Young Evangelists only)
-3. **`get_video_list.py`** - Extracts video IDs and titles from any channel
+### Current Development Status
+- ✅ **Transcript Collection**: Automated downloading and processing
+- ✅ **Repository Structure**: Organized by ministry and topic
+- 🚧 **Website Development**: Building search interface
+- 🚧 **Content Indexing**: Categorizing by themes and topics
+- 🚧 **GitHub Pages**: Automated deployment pipeline
 
-### Data Files
-4. **`video_list.json`** - Young Evangelists videos (82 videos)
-5. **`requirements.txt`** - Python dependencies
+## 📈 Next Steps
 
-### Utility Scripts
-6. **`youtube_transcript_downloader.py`** - Original all-in-one script
-7. **`test_single_video.py`** - Test script for single video
+### Phase 1: Content Enhancement (Current)
+- [x] Set up automated transcript downloads
+- [x] Organize by ministry/channel
+- [ ] Add metadata extraction (speaker names, dates, topics)
+- [ ] Implement content categorization
 
-## Detailed Usage Instructions
+### Phase 2: Website Development
+- [ ] Create GitHub Pages site with search functionality
+- [ ] Build ministry-specific landing pages
+- [ ] Implement topic-based browsing
+- [ ] Add mobile-responsive design
 
-### Prerequisites
-```bash
-# Install Python dependencies
-pip install -r requirements.txt
-```
+### Phase 3: Advanced Features
+- [ ] Full-text search with highlighting
+- [ ] Related sermon recommendations
+- [ ] Bible verse cross-referencing
+- [ ] Export capabilities (PDF, EPUB)
 
-### Step 1: Get Video List (Already Done)
-```bash
-python get_video_list.py
-```
-This creates `video_list.json` with all 82 videos.
+## 🤝 Contributing
 
-### Step 2: Download Transcripts
-```bash
-python download_transcripts_batch.py
-```
+### Ways to Help
+1. **Report Issues**: Found transcription errors or missing content?
+2. **Suggest Features**: Ideas for better organization or search?
+3. **Add Channels**: Know other ministries that would benefit?
+4. **Improve Scripts**: Enhance automation or accuracy?
 
-**Note:** If you get `ModuleNotFoundError`, make sure you installed the dependencies first with `pip install -r requirements.txt`
+### Contact
+- **Issues**: Use GitHub Issues for bug reports and feature requests
+- **Discussions**: Use GitHub Discussions for general questions
 
-## Interactive Downloader Features
+## 📜 Legal & Ethical Considerations
 
-The new `interactive_downloader.py` script provides:
+- **Fair Use**: Transcripts are provided for educational and research purposes
+- **Attribution**: Original video sources are always credited
+- **Accuracy**: Transcripts are generated automatically and may contain errors
+- **Copyright**: All content belongs to original creators/ministries
 
-### 🎯 **Multi-Channel Support**
-- **Young Evangelists Ministry** - Original channel with 82 videos
-- **Pioneer Loudcry** - New channel (@PTLPMTV)
-- Option to download from both channels
+## 🙏 Acknowledgments
 
-### 🔍 **Smart Duplicate Detection**
-- Automatically skips videos that already have transcripts
-- Checks both existing files and download progress
-- Shows detailed status for each channel
+- **Young Evangelists Ministry** - For their commitment to biblical education
+- **Pioneer Loudcry** - For their dedication to prophetic truth
+- **YouTube Transcript API** - For making automated transcription possible
+- **GitHub Pages** - For hosting this searchable collection
 
-### 📊 **Progress Tracking**
-- Separate progress files for each channel
-- Resume capability if interrupted
-- Batch processing with rate limiting
+---
 
-### 🎮 **Interactive Menu**
-```
-Available Channels:
-  1. Young Evangelists
-  2. Pioneer Loudcry  
-  3. Download from both channels
-  4. Show download status
-  0. Exit
-```
-
-### 📁 **Organized Output**
-- `young_evangelists_transcripts/` - Young Evangelists videos
-- `pioneer_loudcry_transcripts/` - Pioneer Loudcry videos
-- Separate video lists and progress files for each channel
-
-## Alternative Solutions for IP Blocking
-
-Since YouTube is currently blocking requests, here are alternative approaches:
-
-### Option 1: Use VPN or Proxy
-- Install and configure a VPN
-- Run the scripts through a proxy service
-- Use residential IP addresses instead of cloud/datacenter IPs
-
-### Option 2: Use YouTube Data API
-- Get YouTube Data API v3 key from Google Cloud Console
-- Modify scripts to use official API (has quota limits)
-- More reliable but requires API setup
-
-### Option 3: Browser-Based Solutions
-- Use browser extensions like "YouTube Transcript" 
-- Manually download a few at a time
-- Use browser automation tools like Selenium
-
-### Option 4: Third-Party Services
-- Use services like AssemblyAI for audio transcription
-- Download audio files first, then transcribe
-- Higher accuracy but costs money
-
-### Option 5: Wait and Retry
-- YouTube blocks are often temporary (24-48 hours)
-- Try running from a different location/network
-- Use longer delays between requests
-
-## Script Features
-
-### Rate Limiting Protection
-- Random delays between requests (2-5 seconds)
-- Exponential backoff on rate limits
-- Batch processing with longer breaks
-
-### Resume Capability
-- Saves progress to `download_progress.json`
-- Skips already downloaded transcripts
-- Can resume from where it left off
-
-### Error Handling
-- Handles videos without transcripts
-- Manages disabled/unavailable videos
-- Detailed error reporting
-
-### Output Format
-- Saves both full transcript and timestamped version
-- Includes video metadata (title, ID, URL)
-- Sanitized filenames for cross-platform compatibility
-
-## Expected Output
-
-When successful, the script will create:
-- `young_evangelists_transcripts/` directory
-- 82 transcript files (one per video)
-- Files named as `{sanitized_title}_{video_id}.txt`
-
-## Video Statistics
-
-- **Total Videos:** 82
-- **Channel:** Young Evangelists Ministry
-- **Video Types:** Mix of sermons, teachings, and ministry content
-- **Date Range:** Various dates (many from 2025)
-
-## Next Steps
-
-1. **Try from different network:** Run scripts from a residential internet connection
-2. **Use VPN:** Connect through a VPN service before running
-3. **Wait 24 hours:** YouTube blocks are often temporary
-4. **Manual approach:** Download a few transcripts manually to test availability
-5. **API approach:** Set up YouTube Data API for more reliable access
-
-## Dependencies
-
-Install all required packages:
-```bash
-pip install -r requirements.txt
-```
-
-Or install manually:
-```bash
-pip install youtube-transcript-api==1.1.1 yt-dlp==2025.6.30
-```
-
-## Notes
-
-- Some videos may not have transcripts available
-- Automatically generated transcripts may have errors
-- Respect YouTube's terms of service
-- Consider fair use when using downloaded content
+*"Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth." - 2 Timothy 2:15*
