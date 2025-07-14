@@ -1,6 +1,8 @@
-# YouTube Transcript Downloader for Young Evangelists Ministry
+# YouTube Transcript Downloader - Multi-Channel Edition
 
-This repository contains scripts to download transcripts from all videos on the Young Evangelists Ministry YouTube channel: https://www.youtube.com/@youngevangelistsministry8232
+This repository contains scripts to download transcripts from multiple YouTube channels:
+- **Young Evangelists Ministry**: https://www.youtube.com/@youngevangelistsministry8232
+- **Pioneer Loudcry**: https://www.youtube.com/@PTLPMTV
 
 ## Quick Start
 
@@ -9,7 +11,16 @@ This repository contains scripts to download transcripts from all videos on the 
 pip install -r requirements.txt
 ```
 
-### 2. Download Transcripts
+### 2. Run Interactive Downloader
+```bash
+python interactive_downloader.py
+```
+
+**NEW:** The interactive script supports multiple channels:
+- **Young Evangelists Ministry** (@youngevangelistsministry8232)
+- **Pioneer Loudcry** (@PTLPMTV)
+
+### 3. Alternative: Single Channel Download
 ```bash
 python download_transcripts_batch.py
 ```
@@ -25,13 +36,20 @@ python download_transcripts_batch.py
 ⚠️ **Current Issue:**
 YouTube is blocking requests due to IP-based rate limiting. This is common when running from cloud servers or after making too many requests.
 
-## Files Created
+## Files Overview
 
-1. **`get_video_list.py`** - Extracts all video IDs and titles from the channel
-2. **`video_list.json`** - Complete list of 82 videos with IDs and titles
-3. **`download_transcripts_batch.py`** - Main transcript downloader with rate limiting
-4. **`youtube_transcript_downloader.py`** - Original all-in-one script
-5. **`test_single_video.py`** - Test script for single video
+### Main Scripts
+1. **`interactive_downloader.py`** - **NEW!** Interactive multi-channel transcript downloader
+2. **`download_transcripts_batch.py`** - Single channel batch downloader (Young Evangelists only)
+3. **`get_video_list.py`** - Extracts video IDs and titles from any channel
+
+### Data Files
+4. **`video_list.json`** - Young Evangelists videos (82 videos)
+5. **`requirements.txt`** - Python dependencies
+
+### Utility Scripts
+6. **`youtube_transcript_downloader.py`** - Original all-in-one script
+7. **`test_single_video.py`** - Test script for single video
 
 ## Detailed Usage Instructions
 
@@ -53,6 +71,40 @@ python download_transcripts_batch.py
 ```
 
 **Note:** If you get `ModuleNotFoundError`, make sure you installed the dependencies first with `pip install -r requirements.txt`
+
+## Interactive Downloader Features
+
+The new `interactive_downloader.py` script provides:
+
+### 🎯 **Multi-Channel Support**
+- **Young Evangelists Ministry** - Original channel with 82 videos
+- **Pioneer Loudcry** - New channel (@PTLPMTV)
+- Option to download from both channels
+
+### 🔍 **Smart Duplicate Detection**
+- Automatically skips videos that already have transcripts
+- Checks both existing files and download progress
+- Shows detailed status for each channel
+
+### 📊 **Progress Tracking**
+- Separate progress files for each channel
+- Resume capability if interrupted
+- Batch processing with rate limiting
+
+### 🎮 **Interactive Menu**
+```
+Available Channels:
+  1. Young Evangelists
+  2. Pioneer Loudcry  
+  3. Download from both channels
+  4. Show download status
+  0. Exit
+```
+
+### 📁 **Organized Output**
+- `young_evangelists_transcripts/` - Young Evangelists videos
+- `pioneer_loudcry_transcripts/` - Pioneer Loudcry videos
+- Separate video lists and progress files for each channel
 
 ## Alternative Solutions for IP Blocking
 
