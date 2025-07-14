@@ -24,6 +24,15 @@ export default function TranscriptReader({ ministry, filename, onClose }: Transc
   const [error, setError] = useState<string | null>(null)
   const [viewMode, setViewMode] = useState<'full' | 'timestamped'>('full')
 
+  // Prevent body scrolling when modal is open
+  useEffect(() => {
+    document.body.style.overflow = 'hidden'
+    
+    return () => {
+      document.body.style.overflow = 'unset'
+    }
+  }, [])
+
   useEffect(() => {
     async function fetchTranscript() {
       try {
@@ -120,7 +129,7 @@ export default function TranscriptReader({ ministry, filename, onClose }: Transc
 
   if (loading) {
     return (
-      <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+      <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 overflow-hidden">
         <div className="bg-white rounded-lg p-8 max-w-md w-full mx-4">
           <div className="flex items-center justify-center">
             <div className="animate-spin w-8 h-8 border-2 border-blue-600 border-t-transparent rounded-full"></div>
@@ -133,7 +142,7 @@ export default function TranscriptReader({ ministry, filename, onClose }: Transc
 
   if (error) {
     return (
-      <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+      <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 overflow-hidden">
         <div className="bg-white rounded-lg p-8 max-w-md w-full mx-4">
           <div className="flex items-center justify-between mb-4">
             <h3 className="text-lg font-semibold text-red-600">Error</h3>
@@ -156,7 +165,7 @@ export default function TranscriptReader({ ministry, filename, onClose }: Transc
   if (!transcript) return null
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-50 z-50">
+    <div className="fixed inset-0 bg-black bg-opacity-50 z-50 overflow-hidden">
       <div className="bg-white w-full h-full flex flex-col">
         {/* Header */}
         <div className="flex items-center justify-between p-6 border-b">
