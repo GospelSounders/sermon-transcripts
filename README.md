@@ -2,6 +2,18 @@
 
 This repository contains scripts to download transcripts from all videos on the Young Evangelists Ministry YouTube channel: https://www.youtube.com/@youngevangelistsministry8232
 
+## Quick Start
+
+### 1. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Download Transcripts
+```bash
+python download_transcripts_batch.py
+```
+
 ## Current Status
 
 ✅ **Completed:**
@@ -21,18 +33,26 @@ YouTube is blocking requests due to IP-based rate limiting. This is common when 
 4. **`youtube_transcript_downloader.py`** - Original all-in-one script
 5. **`test_single_video.py`** - Test script for single video
 
-## Usage Instructions
+## Detailed Usage Instructions
+
+### Prerequisites
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+```
 
 ### Step 1: Get Video List (Already Done)
 ```bash
-python3 get_video_list.py
+python get_video_list.py
 ```
 This creates `video_list.json` with all 82 videos.
 
 ### Step 2: Download Transcripts
 ```bash
-python3 download_transcripts_batch.py
+python download_transcripts_batch.py
 ```
+
+**Note:** If you get `ModuleNotFoundError`, make sure you installed the dependencies first with `pip install -r requirements.txt`
 
 ## Alternative Solutions for IP Blocking
 
@@ -109,8 +129,14 @@ When successful, the script will create:
 
 ## Dependencies
 
+Install all required packages:
 ```bash
-pip3 install youtube-transcript-api yt-dlp
+pip install -r requirements.txt
+```
+
+Or install manually:
+```bash
+pip install youtube-transcript-api==1.1.1 yt-dlp==2025.6.30
 ```
 
 ## Notes
