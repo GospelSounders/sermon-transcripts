@@ -66,6 +66,13 @@ CHANNELS = {
         "output_dir": "../output/repentance-holiness",
         "video_list_file": "repentance_holiness_videos.json",
         "progress_file": "repentance_holiness_progress.json"
+    },
+    "9": {
+        "name": "Nader Mansour",
+        "url": "https://www.youtube.com/@NaderMansour",
+        "output_dir": "../output/nader-mansour",
+        "video_list_file": "nader_mansour_videos.json",
+        "progress_file": "nader_mansour_progress.json"
     }
 }
 
@@ -77,8 +84,8 @@ def display_menu():
     print("Available Channels:")
     for key, channel in CHANNELS.items():
         print(f"  {key}. {channel['name']}")
-    print("  5. Download from all channels")
-    print("  6. Show download status")
+    print("  A. Download from all channels")
+    print("  S. Show download status")
     print("  0. Exit")
     print("="*50)
 
@@ -334,18 +341,18 @@ def main():
     
     while True:
         display_menu()
-        choice = input("\nSelect an option (0-6): ").strip()
+        choice = input("\nSelect an option (0-9, A, S): ").strip().upper()
         
         if choice == "0":
             print("👋 Goodbye!")
             break
-        elif choice in ["1", "2", "3", "4"]:
+        elif choice in ["1", "2", "3", "4", "5", "6", "7", "8", "9"]:
             process_channel(CHANNELS[choice])
-        elif choice == "5":
+        elif choice == "A":
             print("\n🚀 Processing all channels...")
             for channel_config in CHANNELS.values():
                 process_channel(channel_config)
-        elif choice == "6":
+        elif choice == "S":
             show_status()
         else:
             print("❌ Invalid choice. Please try again.")

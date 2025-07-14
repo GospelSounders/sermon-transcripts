@@ -31,7 +31,7 @@ export default function Home() {
                 <div className="text-gray-600">Sermon Transcripts</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-blue-600">8+</div>
+                <div className="text-3xl font-bold text-blue-600">9+</div>
                 <div className="text-gray-600">Christian Churches</div>
               </div>
               <div className="text-center">
@@ -135,6 +135,14 @@ export default function Home() {
                 tags: ["Health Message", "True Education", "Biblical Studies", "Evangelism"],
                 slug: "young-evangelists", 
                 url: "https://www.youtube.com/@youngevangelistsministry8232"
+              },
+              {
+                name: "Nader Mansour",
+                count: "Coming Soon",
+                desc: "Biblical teaching and Christian discipleship content, focusing on practical Christian living and spiritual growth.",
+                tags: ["Biblical Teaching", "Discipleship", "Christian Living", "Spiritual Growth"],
+                slug: "nader-mansour",
+                url: "https://www.youtube.com/@NaderMansour"
               }
             ].map((ministry, index) => (
               <div key={index} className="bg-white rounded-lg shadow p-6 flex flex-col h-full">
